@@ -1,0 +1,24 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display,dolphin_directorysizemode.upd:convert-directorysizecount-to-directorysizemode
+
+[ContextMenu]
+ShowCopyMoveMenu=true
+
+[General]
+Version=202
+ViewPropsTimestamp=2024,10,5,14,47,13.283
+
+[IconsMode]
+UseSystemFont=false
+ViewFont=Iosevka,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,directorythumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,opendocumentthumbnail,svgthumbnail,windowsexethumbnail,windowsimagethumbnail,avif,gdk-pixbuf-thumbnailer,jxl

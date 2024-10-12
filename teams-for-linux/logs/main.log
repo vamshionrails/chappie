@@ -1,0 +1,22 @@
+[2024-10-11 11:36:30.385] [debug] File logging at /home/vamshi/.config/teams-for-linux/logs/main.log with level silly
+[2024-10-11 11:36:30.386] [debug] Console logging enabled with level silly
+[2024-10-11 11:36:30.386] [debug] Logger initialised
+[2024-10-11 11:36:30.386] [debug] configPath: /home/vamshi/.config/teams-for-linux
+[2024-10-11 11:36:30.386] [debug] configFile: {}
+[2024-10-11 11:36:30.388] [info]  Running under Wayland, switching to PipeWire...
+[2024-10-11 11:36:30.631] [debug] processArgs: [ '/opt/teams-for-linux/teams-for-linux' ]
+[2024-10-11 11:36:30.632] [debug] testing RegExp processArgs false
+[2024-10-11 11:36:30.632] [debug] Testing network using net.request() for https://teams.microsoft.com
+[2024-10-11 11:36:30.634] [debug] Spellchecker is disabled!
+[2024-10-11 11:36:30.912] [debug] Network test successful with method https
+[2024-10-11 11:36:47.870] [debug] File logging at /home/vamshi/.config/teams-for-linux/logs/main.log with level silly
+[2024-10-11 11:36:47.871] [debug] Console logging enabled with level silly
+[2024-10-11 11:36:47.871] [debug] Logger initialised
+[2024-10-11 11:36:47.871] [debug] configPath: /home/vamshi/.config/teams-for-linux
+[2024-10-11 11:36:47.871] [debug] configFile: {}
+[2024-10-11 11:36:47.873] [info]  Running under Wayland, switching to PipeWire...
+[2024-10-11 11:36:48.027] [debug] processArgs: [ '/opt/teams-for-linux/teams-for-linux' ]
+[2024-10-11 11:36:48.028] [debug] testing RegExp processArgs false
+[2024-10-11 11:36:48.028] [debug] Testing network using net.request() for https://teams.microsoft.com
+[2024-10-11 11:36:48.029] [debug] Spellchecker is disabled!
+[2024-10-11 11:36:48.246] [debug] Network test successful with method https

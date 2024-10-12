@@ -1,0 +1,222 @@
+    OpenRGB v0.9
+    Commit:  from 
+    Launched: 20241007_194455
+====================================================================================================
+
+0     |Info:    Found file: profile01.orp attempting to validate header
+0     |Info:    Valid v4 profile found for profile01
+1001  |Info:    ------------------------------------------------------
+1001  |Info:    |               Start device detection               |
+1001  |Info:    ------------------------------------------------------
+1001  |Info:    Initializing HID interfaces: Success
+1010  |Info:    ------------------------------------------------------
+1010  |Info:    |             Detecting I2C interfaces               |
+1010  |Info:    ------------------------------------------------------
+1010  |Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:1E07 Subsystem: 3842:2383
+1010  |Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:1E07 Subsystem: 3842:2383
+1010  |Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:1E07 Subsystem: 3842:2383
+1010  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:1E07 Subsystem: 3842:2383
+1010  |Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:1E07 Subsystem: 3842:2383
+1010  |Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:1E07 Subsystem: 3842:2383
+1010  |Info:    Registering I2C interface: /dev/i2c-7 Device 10DE:1AD7 Subsystem: 3842:2383
+1010  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:1E07 Subsystem: 3842:2383
+1010  |Info:    ------------------------------------------------------
+1010  |Info:    |               Detecting I2C devices                |
+1010  |Info:    ------------------------------------------------------
+1010  |Info:    ------------------------------------------------------
+1010  |Info:    |               Detecting I2C PCI devices            |
+1010  |Info:    ------------------------------------------------------
+1049  |Info:    [EVGA GeForce RTX 2080Ti XC Ultra] Registering RGB controller
+1050  |Info:    ------------------------------------------------------
+1050  |Info:    |               Detecting HID devices                |
+1050  |Info:    ------------------------------------------------------
+1170  |Info:    [X570S AERO G] Registering RGB controller
+1170  |Info:    ------------------------------------------------------
+1170  |Info:    |            Detecting libusb HID devices            |
+1170  |Info:    ------------------------------------------------------
+1192  |Info:    ------------------------------------------------------
+1192  |Info:    |              Detecting other devices               |
+1192  |Info:    ------------------------------------------------------
+1203  |Info:    ------------------------------------------------------
+1203  |Info:    |                Detection completed                 |
+1203  |Info:    ------------------------------------------------------
+54785 |ERROR:   [OpenRGBPluginsPage] Failed to install plugin: filesystem error: cannot copy: No such file or directory [] [/home/vamshi/.config/OpenRGB/plugins/]
+1104267|Info:    ------------------------------------------------------
+1104267|Info:    |               Start device detection               |
+1104267|Info:    ------------------------------------------------------
+1104267|Info:    Initializing HID interfaces: Success
+1104274|Info:    ------------------------------------------------------
+1104274|Info:    |             Detecting I2C interfaces               |
+1104274|Info:    ------------------------------------------------------
+1104275|Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:1E07 Subsystem: 3842:2383
+1104275|Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:1E07 Subsystem: 3842:2383
+1104275|Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:1E07 Subsystem: 3842:2383
+1104275|Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:1E07 Subsystem: 3842:2383
+1104275|Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:1E07 Subsystem: 3842:2383
+1104275|Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:1E07 Subsystem: 3842:2383
+1104275|Info:    Registering I2C interface: /dev/i2c-7 Device 10DE:1AD7 Subsystem: 3842:2383
+1104275|Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:1E07 Subsystem: 3842:2383
+1104275|Info:    ------------------------------------------------------
+1104275|Info:    |               Detecting I2C devices                |
+1104275|Info:    ------------------------------------------------------
+1104275|Info:    ------------------------------------------------------
+1104275|Info:    |               Detecting I2C PCI devices            |
+1104275|Info:    ------------------------------------------------------
+1104304|Info:    [EVGA GeForce RTX 2080Ti XC Ultra] Registering RGB controller
+1104304|Info:    ------------------------------------------------------
+1104304|Info:    |               Detecting HID devices                |
+1104304|Info:    ------------------------------------------------------
+1104425|Info:    [X570S AERO G] Registering RGB controller
+1104425|Info:    ------------------------------------------------------
+1104425|Info:    |            Detecting libusb HID devices            |
+1104425|Info:    ------------------------------------------------------
+1104439|Info:    ------------------------------------------------------
+1104439|Info:    |              Detecting other devices               |
+1104439|Info:    ------------------------------------------------------
+1104439|Info:    ------------------------------------------------------
+1104439|Info:    |                Detection completed                 |
+1104439|Info:    ------------------------------------------------------
+1107147|Info:    ------------------------------------------------------
+1107147|Info:    |               Start device detection               |
+1107147|Info:    ------------------------------------------------------
+1107147|Info:    Initializing HID interfaces: Success
+1107154|Info:    ------------------------------------------------------
+1107154|Info:    |             Detecting I2C interfaces               |
+1107154|Info:    ------------------------------------------------------
+1107154|Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:1E07 Subsystem: 3842:2383
+1107154|Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:1E07 Subsystem: 3842:2383
+1107154|Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:1E07 Subsystem: 3842:2383
+1107154|Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:1E07 Subsystem: 3842:2383
+1107154|Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:1E07 Subsystem: 3842:2383
+1107154|Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:1E07 Subsystem: 3842:2383
+1107154|Info:    Registering I2C interface: /dev/i2c-7 Device 10DE:1AD7 Subsystem: 3842:2383
+1107154|Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:1E07 Subsystem: 3842:2383
+1107154|Info:    ------------------------------------------------------
+1107154|Info:    |               Detecting I2C devices                |
+1107154|Info:    ------------------------------------------------------
+1107155|Info:    ------------------------------------------------------
+1107155|Info:    |               Detecting I2C PCI devices            |
+1107155|Info:    ------------------------------------------------------
+1107183|Info:    [EVGA GeForce RTX 2080Ti XC Ultra] Registering RGB controller
+1107184|Info:    ------------------------------------------------------
+1107184|Info:    |               Detecting HID devices                |
+1107184|Info:    ------------------------------------------------------
+1107303|Info:    [X570S AERO G] Registering RGB controller
+1107304|Info:    ------------------------------------------------------
+1107304|Info:    |            Detecting libusb HID devices            |
+1107304|Info:    ------------------------------------------------------
+1107316|Info:    ------------------------------------------------------
+1107317|Info:    |              Detecting other devices               |
+1107317|Info:    ------------------------------------------------------
+1107317|Info:    ------------------------------------------------------
+1107317|Info:    |                Detection completed                 |
+1107317|Info:    ------------------------------------------------------
+1107827|Info:    ------------------------------------------------------
+1107827|Info:    |               Start device detection               |
+1107827|Info:    ------------------------------------------------------
+1107827|Info:    Initializing HID interfaces: Success
+1107834|Info:    ------------------------------------------------------
+1107834|Info:    |             Detecting I2C interfaces               |
+1107834|Info:    ------------------------------------------------------
+1107834|Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:1E07 Subsystem: 3842:2383
+1107834|Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:1E07 Subsystem: 3842:2383
+1107834|Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:1E07 Subsystem: 3842:2383
+1107834|Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:1E07 Subsystem: 3842:2383
+1107834|Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:1E07 Subsystem: 3842:2383
+1107834|Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:1E07 Subsystem: 3842:2383
+1107834|Info:    Registering I2C interface: /dev/i2c-7 Device 10DE:1AD7 Subsystem: 3842:2383
+1107834|Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:1E07 Subsystem: 3842:2383
+1107834|Info:    ------------------------------------------------------
+1107834|Info:    |               Detecting I2C devices                |
+1107834|Info:    ------------------------------------------------------
+1107835|Info:    ------------------------------------------------------
+1107835|Info:    |               Detecting I2C PCI devices            |
+1107835|Info:    ------------------------------------------------------
+1107863|Info:    [EVGA GeForce RTX 2080Ti XC Ultra] Registering RGB controller
+1107863|Info:    ------------------------------------------------------
+1107863|Info:    |               Detecting HID devices                |
+1107863|Info:    ------------------------------------------------------
+1107982|Info:    [X570S AERO G] Registering RGB controller
+1107983|Info:    ------------------------------------------------------
+1107983|Info:    |            Detecting libusb HID devices            |
+1107983|Info:    ------------------------------------------------------
+1107995|Info:    ------------------------------------------------------
+1107995|Info:    |              Detecting other devices               |
+1107995|Info:    ------------------------------------------------------
+1107995|Info:    ------------------------------------------------------
+1107995|Info:    |                Detection completed                 |
+1107995|Info:    ------------------------------------------------------
+1108751|Info:    ------------------------------------------------------
+1108751|Info:    |               Start device detection               |
+1108751|Info:    ------------------------------------------------------
+1108751|Info:    Initializing HID interfaces: Success
+1108758|Info:    ------------------------------------------------------
+1108758|Info:    |             Detecting I2C interfaces               |
+1108758|Info:    ------------------------------------------------------
+1108758|Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:1E07 Subsystem: 3842:2383
+1108758|Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:1E07 Subsystem: 3842:2383
+1108758|Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:1E07 Subsystem: 3842:2383
+1108759|Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:1E07 Subsystem: 3842:2383
+1108759|Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:1E07 Subsystem: 3842:2383
+1108759|Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:1E07 Subsystem: 3842:2383
+1108759|Info:    Registering I2C interface: /dev/i2c-7 Device 10DE:1AD7 Subsystem: 3842:2383
+1108759|Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:1E07 Subsystem: 3842:2383
+1108759|Info:    ------------------------------------------------------
+1108759|Info:    |               Detecting I2C devices                |
+1108759|Info:    ------------------------------------------------------
+1108759|Info:    ------------------------------------------------------
+1108759|Info:    |               Detecting I2C PCI devices            |
+1108759|Info:    ------------------------------------------------------
+1108787|Info:    [EVGA GeForce RTX 2080Ti XC Ultra] Registering RGB controller
+1108788|Info:    ------------------------------------------------------
+1108788|Info:    |               Detecting HID devices                |
+1108788|Info:    ------------------------------------------------------
+1108908|Info:    [X570S AERO G] Registering RGB controller
+1108908|Info:    ------------------------------------------------------
+1108908|Info:    |            Detecting libusb HID devices            |
+1108908|Info:    ------------------------------------------------------
+1108922|Info:    ------------------------------------------------------
+1108922|Info:    |              Detecting other devices               |
+1108922|Info:    ------------------------------------------------------
+1108923|Info:    ------------------------------------------------------
+1108923|Info:    |                Detection completed                 |
+1108923|Info:    ------------------------------------------------------
+1109455|Info:    ------------------------------------------------------
+1109455|Info:    |               Start device detection               |
+1109455|Info:    ------------------------------------------------------
+1109455|Info:    Initializing HID interfaces: Success
+1109462|Info:    ------------------------------------------------------
+1109462|Info:    |             Detecting I2C interfaces               |
+1109462|Info:    ------------------------------------------------------
+1109462|Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:1E07 Subsystem: 3842:2383
+1109462|Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:1E07 Subsystem: 3842:2383
+1109462|Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:1E07 Subsystem: 3842:2383
+1109462|Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:1E07 Subsystem: 3842:2383
+1109462|Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:1E07 Subsystem: 3842:2383
+1109463|Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:1E07 Subsystem: 3842:2383
+1109463|Info:    Registering I2C interface: /dev/i2c-7 Device 10DE:1AD7 Subsystem: 3842:2383
+1109463|Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:1E07 Subsystem: 3842:2383
+1109463|Info:    ------------------------------------------------------
+1109463|Info:    |               Detecting I2C devices                |
+1109463|Info:    ------------------------------------------------------
+1109463|Info:    ------------------------------------------------------
+1109463|Info:    |               Detecting I2C PCI devices            |
+1109463|Info:    ------------------------------------------------------
+1109492|Info:    [EVGA GeForce RTX 2080Ti XC Ultra] Registering RGB controller
+1109492|Info:    ------------------------------------------------------
+1109492|Info:    |               Detecting HID devices                |
+1109492|Info:    ------------------------------------------------------
+1109612|Info:    [X570S AERO G] Registering RGB controller
+1109612|Info:    ------------------------------------------------------
+1109612|Info:    |            Detecting libusb HID devices            |
+1109612|Info:    ------------------------------------------------------
+1109624|Info:    ------------------------------------------------------
+1109624|Info:    |              Detecting other devices               |
+1109624|Info:    ------------------------------------------------------
+1109625|Info:    ------------------------------------------------------
+1109625|Info:    |                Detection completed                 |
+1109625|Info:    ------------------------------------------------------
+2160189|Info:    Profile loading: Succeeded for EVGA GeForce RTX 2080Ti XC Ultra @ I2C: /dev/i2c-0, address 0x49
+2160189|Info:    Profile loading: Succeeded for X570S AERO G @ HID: /dev/hidraw0
+2160440|Info:    Profile loading: Succeeded for EVGA GeForce RTX 2080Ti XC Ultra @ I2C: /dev/i2c-0, address 0x49
+2160440|Info:    Profile loading: Succeeded for X570S AERO G @ HID: /dev/hidraw0

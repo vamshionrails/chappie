@@ -1,0 +1,16 @@
+updateInfoAdded=true
+
+[dolphin_detailsmodesettings.upd]
+ctime=1728595998
+done=rename-leading-padding,move-content-display
+mtime=1728514206
+
+[dolphin_directorysizemode.upd]
+ctime=1728595998
+done=convert-directorysizecount-to-directorysizemode
+mtime=1728514206
+
+[filepicker.upd]
+ctime=1728183681
+done=filepicker-remove-old-previews-entry
+mtime=1714841290

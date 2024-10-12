@@ -1,0 +1,12 @@
+[Unit]
+Description=OpenRGB Profile Loader
+After=hyprland.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/openrgb -p /home/vamshi/.config/OpenRGB/profile01.orp
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,46 @@
+    OpenRGB v0.9
+    Commit:  from 
+    Launched: 20241007_014131
+====================================================================================================
+
+0     |Info:    Found file: profile01.orp attempting to validate header
+0     |Info:    Valid v4 profile found for profile01
+1002  |Info:    ------------------------------------------------------
+1002  |Info:    |               Start device detection               |
+1002  |Info:    ------------------------------------------------------
+1002  |Info:    Initializing HID interfaces: Success
+1010  |Info:    ------------------------------------------------------
+1010  |Info:    |             Detecting I2C interfaces               |
+1011  |Info:    ------------------------------------------------------
+1012  |Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:1E07 Subsystem: 3842:2383
+1012  |Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:1E07 Subsystem: 3842:2383
+1012  |Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:1E07 Subsystem: 3842:2383
+1012  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:1E07 Subsystem: 3842:2383
+1012  |Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:1E07 Subsystem: 3842:2383
+1012  |Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:1E07 Subsystem: 3842:2383
+1012  |Info:    Registering I2C interface: /dev/i2c-7 Device 10DE:1AD7 Subsystem: 3842:2383
+1013  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:1E07 Subsystem: 3842:2383
+1013  |Info:    ------------------------------------------------------
+1013  |Info:    |               Detecting I2C devices                |
+1013  |Info:    ------------------------------------------------------
+1013  |Info:    ------------------------------------------------------
+1013  |Info:    |               Detecting I2C PCI devices            |
+1013  |Info:    ------------------------------------------------------
+1041  |Info:    [EVGA GeForce RTX 2080Ti XC Ultra] Registering RGB controller
+1041  |Info:    ------------------------------------------------------
+1041  |Info:    |               Detecting HID devices                |
+1041  |Info:    ------------------------------------------------------
+1167  |Info:    [X570S AERO G] Registering RGB controller
+1167  |Info:    ------------------------------------------------------
+1167  |Info:    |            Detecting libusb HID devices            |
+1167  |Info:    ------------------------------------------------------
+1190  |Info:    ------------------------------------------------------
+1190  |Info:    |              Detecting other devices               |
+1190  |Info:    ------------------------------------------------------
+1201  |Info:    ------------------------------------------------------
+1201  |Info:    |                Detection completed                 |
+1201  |Info:    ------------------------------------------------------
+7734  |Info:    Profile loading: Succeeded for EVGA GeForce RTX 2080Ti XC Ultra @ I2C: /dev/i2c-0, address 0x49
+7734  |Info:    Profile loading: Succeeded for X570S AERO G @ HID: /dev/hidraw0
+34871 |Info:    Found file: profile01.orp attempting to validate header
+34871 |Info:    Valid v4 profile found for profile01
