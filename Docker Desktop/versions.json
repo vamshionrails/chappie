@@ -1,6 +1,7 @@
 {
-	"appVersion": "4.34.2",
+	"appVersion": "4.34.3",
 	"oneTimeNotifications": {
-		"updateAvailable_4.34.3": true
+		"updateAvailable_4.34.3": true,
+		"updateComplete_4.34.3": true
 	}
 }

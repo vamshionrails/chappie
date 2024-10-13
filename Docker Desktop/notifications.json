@@ -1,19 +1,20 @@
 {
 	"notifications": [
 		{
-			"guid": "82210feb-34c5-4249-a75b-f06dc503d597",
-			"timestamp": 1728527857298,
+			"guid": "ee64d84a-d257-4294-99c1-acae9869ee30",
+			"timestamp": 1728697726911,
 			"read": false,
-			"displayState": "background",
+			"displayState": "foreground",
 			"notification": {
 				"type": "update",
 				"ephemeral": false,
-				"icon": "download",
-				"message": "Docker Desktop 4.34.3 is available.",
-				"actionText": "Download",
+				"icon": "sparkles",
+				"message": "Docker Desktop 4.34.3 has been installed. View what's new.",
+				"actionText": "View",
 				"action": {
-					"action": "update-available"
-				}
+					"action": "view-notification-content"
+				},
+				"fullContent": "# What's new in 4.34.3\n - [Host networking](https://docs.docker.com/engine/network/drivers/host/#docker-desktop) support on Docker Desktop is now generally available\n- If you authenticate via the CLI without Docker Desktop installed, you can now authenticate through a browser-based flow, removing the need for manual PAT generation\n- Windows now supports automatic reclamation of disk space in Docker Desktop for WSL2 installations [using a managed virtual hard disk](https://docs.docker.com/desktop/wsl/best-practices/).\n- Windows registry key sign in enforcement method is now generally available\n- Fresh installations of Docker Desktop now use the containerd image store by default\n- Improved the output of `docker image list` to show multi-platform-related image information\n"
 			}
 		}
 	]
