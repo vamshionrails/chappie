@@ -1,9 +1,12 @@
 {
 	"file_history":
 	[
+		"/home/vamshi/.config/hypr/conf/keybindings.conf",
+		"/home/vamshi/.config/hypr/conf/environment.conf",
+		"/home/vamshi/.config/wayfire.ini",
+		"/home/vamshi/.config/waybar/style.css",
 		"/home/vamshi/.config/hypr/conf/sidebar.conf",
 		"/home/vamshi/.config/hypr/monitors.conf",
-		"/home/vamshi/.config/hypr/conf/keybindings.conf",
 		"/home/vamshi/.config/hypr/hyprland.conf",
 		"/home/vamshi/.config/wlogout/layout",
 		"/home/vamshi/.config/wlogout/style.css",
@@ -11,7 +14,6 @@
 		"/home/vamshi/.config/neofetch/config.conf",
 		"/home/vamshi/.config/starship/starship.toml",
 		"/home/vamshi/.config/dunst/dunstrc",
-		"/home/vamshi/.config/waybar/style.css",
 		"/home/vamshi/.config/swaync/config.json",
 		"/home/vamshi/.config/swaync/style.css",
 		"/home/vamshi/.config/hypr/conf/autostart.conf",
@@ -21,7 +23,6 @@
 		"/home/vamshi/.config/waybar/scripts/weather.sh",
 		"/home/vamshi/.config/nwg-displays/config",
 		"/home/vamshi/.config/hypr/conf/monitors.conf",
-		"/home/vamshi/.config/hypr/conf/environment.conf",
 		"/home/vamshi/.config/hypr/conf/workspaces.conf",
 		"/home/vamshi/.config/hypr/conf/lookfeel.conf",
 		"/home/vamshi/.config/hypr/conf/keyboard.conf",
@@ -39,24 +40,25 @@
 	],
 	"folder_history":
 	[
+		"/home/vamshi",
 		"/home/vamshi/.config",
 		"/home/vamshi/.config/hypr",
 		"/home/vamshi/.config/wlogout",
 		"/home/vamshi/.config/starship"
 	],
 	"last_version": 4180,
-	"last_window_id": 9,
+	"last_window_id": 10,
 	"log_indexing": false,
-	"next_update_check": 1728745356,
+	"next_update_check": 1728884604,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 1046.0,
+		"new_window_height": 0.0,
 		"new_window_maximized": true,
 		"new_window_position":
 		[
 			0.0,
-			24.0
+			25.0
 		],
 		"new_window_settings":
 		{
@@ -97,17 +99,19 @@
 			},
 			"file_history":
 			[
+				"/home/vamshi/.config/wayfire.ini",
+				"/home/vamshi/.config/wlogout/style.css",
+				"/home/vamshi/.config/wlogout/layout",
 				"/home/vamshi/.config/hypr/conf/keybindings.conf",
+				"/home/vamshi/.config/hypr/conf/environment.conf",
+				"/home/vamshi/.config/waybar/style.css",
 				"/home/vamshi/.config/hypr/conf/sidebar.conf",
 				"/home/vamshi/.config/hypr/monitors.conf",
 				"/home/vamshi/.config/hypr/hyprland.conf",
-				"/home/vamshi/.config/wlogout/layout",
-				"/home/vamshi/.config/wlogout/style.css",
 				"/home/vamshi/.config/waybar/config",
 				"/home/vamshi/.config/neofetch/config.conf",
 				"/home/vamshi/.config/starship/starship.toml",
 				"/home/vamshi/.config/dunst/dunstrc",
-				"/home/vamshi/.config/waybar/style.css",
 				"/home/vamshi/.config/swaync/config.json",
 				"/home/vamshi/.config/swaync/style.css",
 				"/home/vamshi/.config/hypr/conf/autostart.conf",
@@ -117,7 +121,6 @@
 				"/home/vamshi/.config/waybar/scripts/weather.sh",
 				"/home/vamshi/.config/nwg-displays/config",
 				"/home/vamshi/.config/hypr/conf/monitors.conf",
-				"/home/vamshi/.config/hypr/conf/environment.conf",
 				"/home/vamshi/.config/hypr/conf/workspaces.conf",
 				"/home/vamshi/.config/hypr/conf/lookfeel.conf",
 				"/home/vamshi/.config/hypr/conf/keyboard.conf",
@@ -131,7 +134,7 @@
 			],
 			"find":
 			{
-				"height": 25.0
+				"height": 26.0
 			},
 			"find_in_files":
 			{
@@ -145,6 +148,13 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"user",
+					"vivek",
+					"autoatart",
+					"wobbly",
+					"keybindings",
+					"reload",
+					"bar",
 					"image_source"
 				],
 				"highlight": true,
@@ -153,6 +163,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"vamshi"
 				],
 				"reverse": false,
 				"scrollbar_highlights": true,
@@ -164,7 +175,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 25.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -178,7 +189,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 46.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -218,7 +229,7 @@
 			{
 			}
 		},
-		"new_window_width": 960.0
+		"new_window_width": 0.0
 	},
 	"windows":
 	[
@@ -231,139 +242,861 @@
 			},
 			"buffers":
 			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/vamshi"
+			],
+			"file_history":
+			[
+				"/home/vamshi/.config/wayfire.ini",
+				"/home/vamshi/.config/wlogout/style.css",
+				"/home/vamshi/.config/wlogout/layout",
+				"/home/vamshi/.config/hypr/conf/keybindings.conf",
+				"/home/vamshi/.config/hypr/conf/environment.conf",
+				"/home/vamshi/.config/waybar/style.css",
+				"/home/vamshi/.config/hypr/conf/sidebar.conf",
+				"/home/vamshi/.config/hypr/monitors.conf",
+				"/home/vamshi/.config/hypr/hyprland.conf",
+				"/home/vamshi/.config/waybar/config",
+				"/home/vamshi/.config/neofetch/config.conf",
+				"/home/vamshi/.config/starship/starship.toml",
+				"/home/vamshi/.config/dunst/dunstrc",
+				"/home/vamshi/.config/swaync/config.json",
+				"/home/vamshi/.config/swaync/style.css",
+				"/home/vamshi/.config/hypr/conf/autostart.conf",
+				"/home/vamshi/.config/waybar/scripts/cputemp.sh",
+				"/home/vamshi/.config/waybar/scripts/spotify.sh",
+				"/home/vamshi/.config/waybar/scripts/storage.sh",
+				"/home/vamshi/.config/waybar/scripts/weather.sh",
+				"/home/vamshi/.config/nwg-displays/config",
+				"/home/vamshi/.config/hypr/conf/monitors.conf",
+				"/home/vamshi/.config/hypr/conf/workspaces.conf",
+				"/home/vamshi/.config/hypr/conf/lookfeel.conf",
+				"/home/vamshi/.config/hypr/conf/keyboard.conf",
+				"/home/vamshi/.config/hypr/conf/programs.conf",
+				"/home/vamshi/Downloads/config(1)",
+				"/home/vamshi/.config/waybar/styleCfg.css",
+				"/home/vamshi/.config/waybar/config_wayfire_now.ini",
+				"/home/vamshi/.config/waybar/style_wayfire_now.css",
+				"/home/vamshi/.config/waybar/config.ini",
+				"/home/vamshi/.config/alacritty/alacritty.toml"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
 				{
-					"file": "/home/vamshi/.config/hypr/conf/keybindings.conf",
+					"path": "/home/vamshi"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 41.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,1912,1038,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 207.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 10,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/vamshi/.config/wlogout/layout",
 					"settings":
 					{
-						"buffer_size": 2879,
+						"buffer_size": 876,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "{"
+					},
+					"undo_stack":
+					[
+						[
+							4,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAAGQIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							5,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAZAgAAewogICAgImxhYmVsIiA6ICJsb2NrIiwKICAgICJhY3Rpb24iIDogInN3YXlsb2NrIiwKICAgICJ0ZXh0IiA6ICJMb2NrIiwKICAgICJrZXliaW5kIiA6ICJsIgp9Cgp7CiAgICAibGFiZWwiIDogImxvZ291dCIsCiAgICAiYWN0aW9uIiA6ICJoeXByY3RsIGRpc3BhdGNoIGV4aXQgMCIsCiAgICAidGV4dCIgOiAiTG9nb3V0IiwKICAgICJrZXliaW5kIiA6ICJlIgp9Cgp7CiAgICAibGFiZWwiIDogInNodXRkb3duIiwKICAgICJhY3Rpb24iIDogInN5c3RlbWN0bCBwb3dlcm9mZiIsCiAgICAidGV4dCIgOiAiU2h1dGRvd24iLAogICAgImtleWJpbmQiIDogInMiCn0KCnsKICAgICJsYWJlbCIgOiAicmVib290IiwKICAgICJhY3Rpb24iIDogInN5c3RlbWN0bCByZWJvb3QiLAogICAgInRleHQiIDogIlJlYm9vdCIsCiAgICAia2V5YmluZCIgOiAiciIKfQoKewogICAgImxhYmVsIiA6ICJzdXNwZW5kIiwKICAgICJhY3Rpb24iIDogInN5c3RlbWN0bCBzdXNwZW5kIiwKICAgICJ0ZXh0IiA6ICJTdXNwZW5kIiwKICAgICJrZXliaW5kIiA6ICJ1Igp9AAAAAAAAAABgAwAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAZAgAAAAAAABkCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							8,
+							1,
+							"insert",
+							{
+								"characters": "vamshi"
+							},
+							"BwAAALsAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAAC8AAAAAAAAAAQAAAB1c2VyvAAAAAAAAAC9AAAAAAAAAAAAAAC9AAAAAAAAAL4AAAAAAAAAAAAAAL4AAAAAAAAAvwAAAAAAAAAAAAAAvwAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAMEAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC/AAAAAAAAALsAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							13,
+							1,
+							"",
+							null,
+							"BQAAAAIDAAAAAAAACAMAAAAAAAAEAAAAdXNlcm8CAAAAAAAAdQIAAAAAAAAEAAAAdXNlct8BAAAAAAAA5QEAAAAAAAAEAAAAdXNlck4BAAAAAAAAVAEAAAAAAAAEAAAAdXNlci4AAAAAAAAANAAAAAAAAAAEAAAAdXNlcg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABOAQAAAAAAAFIBAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"file": "/home/vamshi/.config/wlogout/style.css",
+					"redo_stack":
+					[
+						[
+							148,
+							1,
+							"insert",
+							{
+								"characters": "4"
+							},
+							"AQAAAFsCAAAAAAAAWwIAAAAAAAABAAAANA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABcAgAAAAAAAFwCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							147,
+							1,
+							"left_delete",
+							null,
+							"AQAAAFsCAAAAAAAAXAIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABbAgAAAAAAAFsCAAAAAAAAAAAAAAAA8L8"
+						]
+					],
+					"settings":
+					{
+						"buffer_size": 1222,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "window {"
+					},
+					"undo_stack":
+					[
+						[
+							4,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAAMwYAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							16,
+							1,
+							"",
+							null,
+							"CgAAAAAGAAAAAAAABgYAAAAAAAAFAAAAdml2ZWubBQAAAAAAAKEFAAAAAAAABQAAAHZpdmVrNwUAAAAAAAA9BQAAAAAAAAUAAAB2aXZla9IEAAAAAAAA2AQAAAAAAAAFAAAAdml2ZWtsBAAAAAAAAHIEAAAAAAAABQAAAHZpdmVrBwQAAAAAAAANBAAAAAAAAAUAAAB2aXZla6EDAAAAAAAApwMAAAAAAAAFAAAAdml2ZWs9AwAAAAAAAEMDAAAAAAAABQAAAHZpdmVr2gIAAAAAAADgAgAAAAAAAAUAAAB2aXZla2ACAAAAAAAAZgIAAAAAAAAFAAAAdml2ZWs",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9AwAAAAAAAEIDAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							21,
+							1,
+							"insert",
+							{
+								"characters": "IO"
+							},
+							"AwAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAbAAAAAAAAABcAAABDYXNrYXlkaWFDb3ZlIE5lcmQgRm9udBsAAAAAAAAAHAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAaAAAAAAAAADEAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							22,
+							1,
+							"left_delete",
+							null,
+							"AQAAABsAAAAAAAAAGwAAAAAAAAABAAAATw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAcAAAAAAAAABwAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							23,
+							1,
+							"insert",
+							{
+								"characters": "OSE"
+							},
+							"AwAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							24,
+							3,
+							"left_delete",
+							null,
+							"AwAAAB0AAAAAAAAAHQAAAAAAAAABAAAARRwAAAAAAAAAHAAAAAAAAAABAAAAUxsAAAAAAAAAGwAAAAAAAAABAAAATw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							25,
+							1,
+							"insert",
+							{
+								"characters": "osevka"
+							},
+							"BgAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							28,
+							1,
+							"left_delete",
+							null,
+							"AQAAAOkAAAAAAAAA6QAAAAAAAAABAAAANg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADqAAAAAAAAAOoAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							29,
+							1,
+							"insert",
+							{
+								"characters": "3"
+							},
+							"AQAAAOkAAAAAAAAA6gAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADpAAAAAAAAAOkAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							37,
+							1,
+							"left_delete",
+							null,
+							"AQAAAI8CAAAAAAAAjwIAAAAAAAABAAAANw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACQAgAAAAAAAJACAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							38,
+							1,
+							"insert",
+							{
+								"characters": "3"
+							},
+							"AQAAAI8CAAAAAAAAkAIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACPAgAAAAAAAI8CAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							41,
+							1,
+							"left_delete",
+							null,
+							"AQAAAIoBAAAAAAAAigEAAAAAAAABAAAANQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACLAQAAAAAAAIsBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							42,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAIoBAAAAAAAAiwEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACKAQAAAAAAAIoBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							43,
+							1,
+							"left_delete",
+							null,
+							"AQAAAIoBAAAAAAAAigEAAAAAAAABAAAAMQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACLAQAAAAAAAIsBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							44,
+							1,
+							"insert",
+							{
+								"characters": "5"
+							},
+							"AQAAAIoBAAAAAAAAiwEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACKAQAAAAAAAIoBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							47,
+							1,
+							"left_delete",
+							null,
+							"AQAAAI8CAAAAAAAAjwIAAAAAAAABAAAAMw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACQAgAAAAAAAJACAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							48,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAI8CAAAAAAAAkAIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACPAgAAAAAAAI8CAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							49,
+							1,
+							"left_delete",
+							null,
+							"AQAAAI8CAAAAAAAAjwIAAAAAAAABAAAAMQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACQAgAAAAAAAJACAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							50,
+							1,
+							"insert",
+							{
+								"characters": "3"
+							},
+							"AQAAAI8CAAAAAAAAkAIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACPAgAAAAAAAI8CAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							53,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AgAAAFIBAAAAAAAAVAEAAAAAAAAAAAAAKwEAAAAAAAAtAQAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAvAQAAAAAAAFIBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							56,
+							1,
+							"left_delete",
+							null,
+							"AQAAAOkAAAAAAAAA6QAAAAAAAAABAAAAMw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADqAAAAAAAAAOoAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							57,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAOkAAAAAAAAA6gAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADpAAAAAAAAAOkAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							58,
+							1,
+							"left_delete",
+							null,
+							"AQAAAOkAAAAAAAAA6QAAAAAAAAABAAAAMQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADqAAAAAAAAAOoAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							59,
+							1,
+							"insert",
+							{
+								"characters": "3"
+							},
+							"AQAAAOkAAAAAAAAA6gAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADpAAAAAAAAAOkAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							70,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAxBgAAd2luZG93IHsKICAgIGZvbnQtZmFtaWx5OiBJb3NldmthLCBtb25vc3BhY2U7CiAgICBmb250LXNpemU6IDEycHQ7CiAgICBjb2xvcjogI2NkZDZmNDsgCiAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDE3LCAxNywgMjcsIC44OCk7Cn0KCmJ1dHRvbiB7CiAgICBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0OwogICAgYmFja2dyb3VuZC1wb3NpdGlvbjogY2VudGVyOwogICAgYmFja2dyb3VuZC1zaXplOiAzMCU7CiAgICBib3JkZXI6IG5vbmU7CiAgICBjb2xvcjogI2NlZDdmNDsKICAgIHRleHQtc2hhZG93OiBub25lOwovKiAgICBib3JkZXItcmFkaXVzOiAyMHB4IDIwcHggMjBweCAyMHB4OyovCiAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDMwLCAzMCwgNDYsIDApOwogICAgbWFyZ2luOiA1cHg7CiAgICB0cmFuc2l0aW9uOiBib3gtc2hhZG93IDAuMnMgZWFzZS1pbi1vdXQsIGJhY2tncm91bmQtY29sb3IgMC4ycyBlYXNlLWluLW91dDsKfQoKYnV0dG9uOmhvdmVyIHsKICAgIGJhY2tncm91bmQtY29sb3I6IHJnYmEoNDksIDUwLCA2OCwgMC4xKTsKfQoKI2xvY2sgewogICAgYmFja2dyb3VuZC1pbWFnZTogaW1hZ2UodXJsKCIvaG9tZS92YW1zaGkvLmNvbmZpZy93bG9nb3V0L2ljb25zL2xvY2sucG5nIikpOwogICAgYmFja2dyb3VuZC1zaXplOiAzMCU7Cn0KI2xvY2s6Zm9jdXMgewogICAgYmFja2dyb3VuZC1pbWFnZTogaW1hZ2UodXJsKCIvaG9tZS92YW1zaGkvLmNvbmZpZy93bG9nb3V0L2ljb25zL2xvY2staG92ZXIucG5nIikpOwp9CgojbG9nb3V0IHsKICAgIGJhY2tncm91bmQtaW1hZ2U6IGltYWdlKHVybCgiL2hvbWUvdmFtc2hpLy5jb25maWcvd2xvZ291dC9pY29ucy9sb2dvdXQucG5nIikpOwp9CiNsb2dvdXQ6Zm9jdXMgewogICAgYmFja2dyb3VuZC1pbWFnZTogaW1hZ2UodXJsKCIvaG9tZS92YW1zaGkvLmNvbmZpZy93bG9nb3V0L2ljb25zL2xvZ291dC1ob3Zlci5wbmciKSk7Cn0KCiNzdXNwZW5kIHsKICAgIGJhY2tncm91bmQtaW1hZ2U6IGltYWdlKHVybCgiL2hvbWUvdmFtc2hpLy5jb25maWcvd2xvZ291dC9pY29ucy9zbGVlcC5wbmciKSk7Cn0gCiNzdXNwZW5kOmZvY3VzIHsKICAgIGJhY2tncm91bmQtaW1hZ2U6IGltYWdlKHVybCgiL2hvbWUvdmFtc2hpLy5jb25maWcvd2xvZ291dC9pY29ucy9zbGVlcC1ob3Zlci5wbmciKSk7Cn0KCiNzaHV0ZG93biB7CiAgICBiYWNrZ3JvdW5kLWltYWdlOiBpbWFnZSh1cmwoIi9ob21lL3ZhbXNoaS8uY29uZmlnL3dsb2dvdXQvaWNvbnMvcG93ZXIucG5nIikpOwp9CiNzaHV0ZG93bjpmb2N1cyB7CiAgICBiYWNrZ3JvdW5kLWltYWdlOiBpbWFnZSh1cmwoIi9ob21lL3ZhbXNoaS8uY29uZmlnL3dsb2dvdXQvaWNvbnMvcG93ZXItaG92ZXIucG5nIikpOwp9CgojcmVib290IHsKICAgIGJhY2tncm91bmQtaW1hZ2U6IGltYWdlKHVybCgiL2hvbWUvdmFtc2hpLy5jb25maWcvd2xvZ291dC9pY29ucy9yZXN0YXJ0LnBuZyIpKTsKfQojcmVib290OmZvY3VzIHsKICAgIGJhY2tncm91bmQtaW1hZ2U6IGltYWdlKHVybCgiL2hvbWUvdmFtc2hpLy5jb25maWcvd2xvZ291dC9pY29ucy9yZXN0YXJ0LWhvdmVyLnBuZyIpKTsKfQAAAAAAAAAAzgQAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABwAwAAAAAAAHADAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							73,
+							1,
+							"",
+							null,
+							"BgAAAJ8EAAAAAAAApQQAAAAAAAAEAAAAdXNlcj0EAAAAAAAAQwQAAAAAAAAEAAAAdXNlcuADAAAAAAAA5gMAAAAAAAAEAAAAdXNlcoADAAAAAAAAhgMAAAAAAAAEAAAAdXNlciEDAAAAAAAAJwMAAAAAAAAEAAAAdXNlcqsCAAAAAAAAsQIAAAAAAAAEAAAAdXNlcg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAQAQAAAAAAABABAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							80,
+							1,
+							"insert",
+							{
+								"characters": "Iosevka"
+							},
+							"CAAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAbAAAAAAAAABcAAABDYXNrYXlkaWFDb3ZlIE5lcmQgRm9udBsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAaAAAAAAAAADEAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							85,
+							1,
+							"left_delete",
+							null,
+							"AQAAAOMAAAAAAAAA4wAAAAAAAAABAAAANA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADkAAAAAAAAAOQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							86,
+							1,
+							"insert",
+							{
+								"characters": "2"
+							},
+							"AQAAAOMAAAAAAAAA5AAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADjAAAAAAAAAOMAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							89,
+							2,
+							"left_delete",
+							null,
+							"AgAAAPsAAAAAAAAA+wAAAAAAAAABAAAAMPoAAAAAAAAA+gAAAAAAAAABAAAAMQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD8AAAAAAAAAPwAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							90,
+							1,
+							"insert",
+							{
+								"characters": "6"
+							},
+							"AQAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD6AAAAAAAAAPoAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							91,
+							1,
+							"left_delete",
+							null,
+							"AQAAAPoAAAAAAAAA+gAAAAAAAAABAAAANg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD7AAAAAAAAAPsAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							92,
+							1,
+							"insert",
+							{
+								"characters": "5"
+							},
+							"AQAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD6AAAAAAAAAPoAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							95,
+							2,
+							"left_delete",
+							null,
+							"AgAAABUBAAAAAAAAFQEAAAAAAAABAAAAMBQBAAAAAAAAFAEAAAAAAAABAAAAMQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAWAQAAAAAAABYBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							96,
+							1,
+							"insert",
+							{
+								"characters": "6"
+							},
+							"AQAAABQBAAAAAAAAFQEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUAQAAAAAAABQBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							97,
+							1,
+							"left_delete",
+							null,
+							"AQAAABQBAAAAAAAAFAEAAAAAAAABAAAANg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAVAQAAAAAAABUBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							98,
+							1,
+							"insert",
+							{
+								"characters": "5"
+							},
+							"AQAAABQBAAAAAAAAFQEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUAQAAAAAAABQBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							101,
+							1,
+							"left_delete",
+							null,
+							"AQAAAIQBAAAAAAAAhAEAAAAAAAABAAAAMg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACFAQAAAAAAAIUBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							102,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAIQBAAAAAAAAhQEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACEAQAAAAAAAIQBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							105,
+							1,
+							"left_delete",
+							null,
+							"AQAAAIkBAAAAAAAAiQEAAAAAAAABAAAAMg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACKAQAAAAAAAIoBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							106,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAIkBAAAAAAAAigEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACJAQAAAAAAAIkBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							109,
+							1,
+							"left_delete",
+							null,
+							"AQAAAI4BAAAAAAAAjgEAAAAAAAABAAAAMg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACPAQAAAAAAAI8BAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							110,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAI4BAAAAAAAAjwEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACOAQAAAAAAAI4BAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							113,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJMBAAAAAAAAkwEAAAAAAAABAAAAMg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACUAQAAAAAAAJQBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							114,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAJMBAAAAAAAAlAEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACTAQAAAAAAAJMBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							117,
+							1,
+							"left_delete",
+							null,
+							"AQAAAC8BAAAAAAAALwEAAAAAAAABAAAANg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAwAQAAAAAAADABAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							118,
+							1,
+							"insert",
+							{
+								"characters": "3"
+							},
+							"AQAAAC8BAAAAAAAAMAEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAvAQAAAAAAAC8BAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							119,
+							1,
+							"left_delete",
+							null,
+							"AQAAAC8BAAAAAAAALwEAAAAAAAABAAAAMw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAwAQAAAAAAADABAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							120,
+							1,
+							"insert",
+							{
+								"characters": "2"
+							},
+							"AQAAAC8BAAAAAAAAMAEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAvAQAAAAAAAC8BAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							123,
+							1,
+							"left_delete",
+							null,
+							"AQAAANgCAAAAAAAA2AIAAAAAAAABAAAANw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADZAgAAAAAAANkCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							124,
+							1,
+							"insert",
+							{
+								"characters": "3"
+							},
+							"AQAAANgCAAAAAAAA2QIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADYAgAAAAAAANgCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							127,
+							1,
+							"left_delete",
+							null,
+							"AQAAAPoAAAAAAAAA+gAAAAAAAAABAAAANQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD7AAAAAAAAAPsAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							128,
+							1,
+							"insert",
+							{
+								"characters": "10"
+							},
+							"AgAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA+wAAAAAAAAD8AAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD6AAAAAAAAAPoAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							131,
+							1,
+							"left_delete",
+							null,
+							"AQAAABUBAAAAAAAAFQEAAAAAAAABAAAANQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAWAQAAAAAAABYBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							132,
+							1,
+							"insert",
+							{
+								"characters": "10"
+							},
+							"AgAAABUBAAAAAAAAFgEAAAAAAAAAAAAAFgEAAAAAAAAXAQAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAVAQAAAAAAABUBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							133,
+							1,
+							"left_delete",
+							null,
+							"AQAAABYBAAAAAAAAFgEAAAAAAAABAAAAMA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAXAQAAAAAAABcBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							134,
+							1,
+							"insert",
+							{
+								"characters": "5"
+							},
+							"AQAAABYBAAAAAAAAFwEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAWAQAAAAAAABYBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							135,
+							2,
+							"left_delete",
+							null,
+							"AgAAABYBAAAAAAAAFgEAAAAAAAABAAAANRUBAAAAAAAAFQEAAAAAAAABAAAAMQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAXAQAAAAAAABcBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							140,
+							2,
+							"left_delete",
+							null,
+							"AgAAAPsAAAAAAAAA+wAAAAAAAAABAAAAMPoAAAAAAAAA+gAAAAAAAAABAAAAMQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD8AAAAAAAAAPwAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							143,
+							1,
+							"left_delete",
+							null,
+							"AQAAAC0BAAAAAAAALQEAAAAAAAABAAAAMg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAuAQAAAAAAAC4BAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							144,
+							1,
+							"insert",
+							{
+								"characters": "3"
+							},
+							"AQAAAC0BAAAAAAAALgEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAtAQAAAAAAAC0BAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"file": "/home/vamshi/.config/wayfire.ini",
+					"settings":
+					{
+						"buffer_size": 9785,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
 					"undo_stack":
 					[
 						[
-							3,
-							1,
-							"insert",
-							{
-								"characters": "\n\n\n"
-							},
-							"AwAAAB4LAAAAAAAAHwsAAAAAAAAAAAAAHwsAAAAAAAAgCwAAAAAAAAAAAAAgCwAAAAAAACELAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAHgsAAAAAAAAeCwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							5,
-							1,
-							"",
-							null,
-							"AQAAACELAAAAAAAAPQsAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAIQsAAAAAAAAhCwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							6,
-							1,
-							"left_delete",
-							null,
-							"AQAAADwLAAAAAAAAPAsAAAAAAAABAAAALA",
-							"AQAAAAAAAAABAAAAPQsAAAAAAAA9CwAAAAAAAAAAAAAAAPC/"
-						],
-						[
 							7,
 							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AQAAADwLAAAAAAAAPQsAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAPAsAAAAAAAA8CwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							9,
-							1,
 							"",
 							null,
-							"AQAAAD0LAAAAAAAAUQsAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAPQsAAAAAAAA9CwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							10,
-							1,
-							"left_delete",
-							null,
-							"AQAAAFALAAAAAAAAUAsAAAAAAAABAAAAKQ",
-							"AQAAAAAAAAABAAAAUQsAAAAAAABRCwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							13,
-							1,
-							"left_delete",
-							null,
-							"AQAAAEcLAAAAAAAARwsAAAAAAAABAAAAKA",
-							"AQAAAAAAAAABAAAASAsAAAAAAABICwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							17,
-							1,
-							"left_delete",
-							null,
-							"AQAAAD0LAAAAAAAAPQsAAAAAAAATAAAAU1VQRVIgKyBWIEZsb2F0aW5nCg",
-							"AQAAAAAAAAABAAAAUAsAAAAAAAA9CwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							22,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AQAAADwLAAAAAAAAPQsAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAPAsAAAAAAAA8CwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							23,
-							1,
-							"paste",
-							null,
-							"AQAAAD0LAAAAAAAAWAsAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAPQsAAAAAAAA9CwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							26,
-							1,
-							"left_delete",
-							null,
-							"AQAAAEsLAAAAAAAASwsAAAAAAAABAAAARg",
-							"AQAAAAAAAAABAAAATAsAAAAAAABMCwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							27,
-							1,
-							"insert",
-							{
-								"characters": "V"
-							},
-							"AQAAAEsLAAAAAAAATAsAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAASwsAAAAAAABLCwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							30,
-							1,
-							"insert",
-							{
-								"characters": "loating"
-							},
-							"CAAAAE8LAAAAAAAAUAsAAAAAAAAAAAAAUAsAAAAAAABQCwAAAAAAAAkAAAB1bGxzY3JlZW5QCwAAAAAAAFELAAAAAAAAAAAAAFELAAAAAAAAUgsAAAAAAAAAAAAAUgsAAAAAAABTCwAAAAAAAAAAAABTCwAAAAAAAFQLAAAAAAAAAAAAAFQLAAAAAAAAVQsAAAAAAAAAAAAAVQsAAAAAAABWCwAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAATwsAAAAAAABYCwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							33,
-							1,
-							"insert",
-							{
-								"characters": " "
-							},
-							"AgAAAD0LAAAAAAAAPgsAAAAAAAAAAAAAPgsAAAAAAAA+CwAAAAAAABkAAABiaW5kID0gU1VQRVIsIFYsIGZsb2F0aW5n",
-							"AQAAAAAAAAABAAAAVgsAAAAAAAA9CwAAAAAAAAAAAAAAAPC/"
+							"AgAAAAAAAAAAAAAAOSYAAAAAAAAAAAAAOSYAAAAAAAA5JgAAAAAAAPBIAABbYWxwaGFdCm1pbl92YWx1ZSA9IDAuMTAwMDAwCm1vZGlmaWVyID0gPGFsdD4gPHN1cGVyPiAKClthbmltYXRlXQpjbG9zZV9hbmltYXRpb24gPSBmaXJlCmR1cmF0aW9uID0gMTAwbXMgY2lyY2xlCmVuYWJsZWRfZm9yID0gKHR5cGUgZXF1YWxzICJ0b3BsZXZlbCIgfCAodHlwZSBlcXVhbHMgIngtb3IiICYgZm9jdXNhYmxlIGVxdWFscyB0cnVlKSkKZmFkZV9kdXJhdGlvbiA9IDQwMG1zIGNpcmNsZQpmYWRlX2VuYWJsZWRfZm9yID0gdHlwZSBlcXVhbHMgIm92ZXJsYXkiCmZpcmVfY29sb3IgPSBcI0IyMjMwM0ZGCmZpcmVfZHVyYXRpb24gPSAzMDBtcyBjaXJjbGUKZmlyZV9lbmFibGVkX2ZvciA9IG5vbmUKZmlyZV9wYXJ0aWNsZV9zaXplID0gMTYuMDAwMDAwCmZpcmVfcGFydGljbGVzID0gMjAwMApvcGVuX2FuaW1hdGlvbiA9IHpvb20KcmFuZG9tX2ZpcmVfY29sb3IgPSBmYWxzZQpzdGFydHVwX2R1cmF0aW9uID0gNjAwbXMgY2lyY2xlCnpvb21fZHVyYXRpb24gPSA1MDBtcyBjaXJjbGUKem9vbV9lbmFibGVkX2ZvciA9IG5vbmUKClthbm5vdGF0ZV0KY2xlYXJfd29ya3NwYWNlID0gPGFsdD4gPHN1cGVyPiBLRVlfQwpkcmF3ID0gPGFsdD4gPHN1cGVyPiBCVE5fTEVGVApmcm9tX2NlbnRlciA9IHRydWUKbGluZV93aWR0aCA9IDMuMDAwMDAwCm1ldGhvZCA9IGRyYXcKc3Ryb2tlX2NvbG9yID0gXCNGRjAwMDBGRgoKW2F1dG9yb3RhdGUtaWlvXQpsb2NrX3JvdGF0aW9uID0gZmFsc2UKcm90YXRlX2Rvd24gPSA8Y3RybD4gPHN1cGVyPiBLRVlfRE9XTgpyb3RhdGVfbGVmdCA9IDxjdHJsPiA8c3VwZXI+IEtFWV9MRUZUCnJvdGF0ZV9yaWdodCA9IDxjdHJsPiA8c3VwZXI+IEtFWV9SSUdIVApyb3RhdGVfdXAgPSA8Y3RybD4gPHN1cGVyPiBLRVlfVVAKClthdXRvc3RhcnRdCjBfMCA9IHN5c3RlbWN0bCAtLXVzZXIgaW1wb3J0LWVudmlyb25tZW50Cmd0ayA9IHNsZWVwIDEgJiYgKFhER19TRVNTSU9OX1RZUEU9d2F5bGFuZCBYREdfQ1VSUkVOVF9ERVNLVE9QPXN3YXkgL3Vzci9saWJlL3hkZy1kZXNrdG9wLXBvcnRhbCAtLXJlcGxhY2UgJiAvdXNyL2xpYi94ZGctZGVza3RvcC1wb3J0YWwtd2xyKQphdXRvc3RhcnRfd2Zfc2hlbGwgPSBmYWxzZQpiYWNrZ3JvdW5kID0gd2YtYmFja2dyb3VuZApiYXIgPSAKZG9jayA9IHdmLWRvY2sKbGF1bmNoZXIwMSA9IC9ob21lL2JsdWVieXQvLmJpbi90aHVuYXIuc2gKbGF1bmNoZXIwMiA9IGtpdHR5CmxhdW5jaGVyMDMgPSBhbGFjcml0dHkgLWUgIm5jbXBjcHAiCmxhdW5jaGVyMDQgPSBtcHYgL21udC9tZWRpYS9WaWRlb3MvQ2hpbGxvdXQwMDgvcGxheWxpc3QubTN1ICYKbGF1bmNoZXIwNSA9IGJyYXZlLWJldGEgLS1vem9uZS1wbGF0Zm9ybT13YXlsYW5kICYKbGF1bmNoZXIwNiA9IGZpcmVmb3gKbGF1bmNoZXIwNyA9IGxpdGUteGwKbGF1bmNoZXIwOCA9IHdlenRlcm0KbGF1bmNoZXIwOSA9IGJsdWVtYW4tbWFuYWdlcgpsYXVuY2hlcjEwID0gcGF2dWNvbnRyb2wKbGF1bmNoZXIxMiA9IG53Zy1sb29rCmxhdW5jaGVyMTMgPSB2ZXNrdG9wCmxhdW5jaGVyMTQgPSByaXN0cmV0dG8gLXMgL21udC9tZWRpYS9EZXZpYW50LyAmCmxhdW5jaGVyMTUgPSBmb290IGJweXRvcApsYXVuY2hlcjE2ID0gfi8uY29uZmlnL3NjcmlwdHMvLi9ld3ctc3RhcnQzLnNoCmxhdW5jaGVyMTcgPQpsYXVuY2hlcjE4ID0gCmxhdW5jaGVyMTkgPQpsYXVuY2hlcjIwID0gCmxhdW5jaGVyMjEgPSAKbGF1bmNoZXIyMiA9IHVsYXVuY2hlciAtLWhpZGUtd2luZG93IApsYXVuY2hlcjI1ID0gc3dheW9zZC1zZXJ2ZXIKbGF1bmNoZXIyNiA9IHN3YXlvc2QtbGliaW5wdXQtYmFja2VuZApsYXVuY2hlcjI3ID0gbm90aWZ5LXNlbmQgLWEgYXVyb3JhICJoZWxsbyAkKHdob2FtaSkiCmxhdW5jaGVyMjggPSAvdXNyL2Jpbi94YXZhCmxhdW5jaGVyMjkgPSBwYWN0bCBsb2FkLW1vZHVsZSBtb2R1bGUtc3dpdGNoLW9uLWNvbm5lY3QKbGF1bmNoZXIzMCA9IHN3d3ctZGFlbW9uICYmIHN3d3cgaW1nIH4vUGljdHVyZXMvTm9yZC9Ob3JkX3dhbGwyLmpwZWcKbGF1bmNoZXIzMSA9IC9ob21lL2JsdWVieXQvLmxvY2FsL2Jpbi9pcm9uYmFyCm5vdGlmaWNhdGlvbnMgPSBtYWtvCnBvbGtpdC1nbm9tZSA9IC91c3IvbGliL3BvbGtpdC1nbm9tZS9wb2xraXQtZ25vbWUtYXV0aGVudGljYXRpb24tYWdlbnQtMQpwb3J0YWwgPSAvdXNyL2xpYi94ZGctZGVza3RvcC1wb3J0YWwgLS1yZXBsYWNlICYgL3Vzci9saWIveGRnLWRlc2t0b3AtcG9ydGFsLXdscgoKW2JhY2tncm91bmQtdmlld10KYXBwX2lkID0gCmNvbW1hbmQgPSAKZmlsZSA9IAppbmhpYml0X2lucHV0ID0gdHJ1ZQoKW2JlbmNoXQphdmVyYWdlX2ZyYW1lcyA9IDI1CnBvc2l0aW9uID0gdG9wX2NlbnRlcgoKW2JsdXJdCmJsdXJfYnlfZGVmYXVsdCA9IHR5cGUgaXMgInRvcGxldmVsIgpib2tlaF9kZWdyYWRlID0gMQpib2tlaF9pdGVyYXRpb25zID0gMTUKYm9rZWhfb2Zmc2V0ID0gNS4wMDAwMDAKYm94X2RlZ3JhZGUgPSAxCmJveF9pdGVyYXRpb25zID0gMgpib3hfb2Zmc2V0ID0gMS4wMDAwMDAKZ2F1c3NpYW5fZGVncmFkZSA9IDEKZ2F1c3NpYW5faXRlcmF0aW9ucyA9IDIKZ2F1c3NpYW5fb2Zmc2V0ID0gMS4wMDAwMDAKa2F3YXNlX2RlZ3JhZGUgPSA4Cmthd2FzZV9pdGVyYXRpb25zID0gMgprYXdhc2Vfb2Zmc2V0ID0gMi4wMDAwMDAKbWV0aG9kID0gZ2F1c3NpYW4Kc2F0dXJhdGlvbiA9IDEuMDAwMDAwCnRvZ2dsZSA9IG5vbmUKCltjb21tYW5kXQpiaW5kaW5nX2xhdW5jaGVyID0gPGN0cmw+IEtFWV9TUEFDRQpiaW5kaW5nX2xvZ291dCA9IDxzdXBlcj4gS0VZX0VTQwpiaW5kaW5nX211dGUgPSBLRVlfTVVURQojIGJpbmRpbmdfcm9maSA9IDxjdHJsPiBLRVlfRwpiaW5kaW5nX3NjcmVlbnNob3QgPSBLRVlfU1lTUlEKYmluZGluZ19zbHVycCA9IDxjdHJsPiBLRVlfU1lTUlEKYmluZGluZ190ZXJtaW5hbCA9IDxzdXBlcj4gS0VZX0VOVEVSCmJpbmRpbmdfdm9sZG93biA9IEtFWV9WT0xVTUVET1dOCmJpbmRpbmdfdm9sdXAgPSBLRVlfVk9MVU1FVVAKIyBiaW5kaW5nX3dvZmkgPSA8Y3RybD4gS0VZX0IKY29tbWFuZF9sYXVuY2hlciA9IHVsYXVuY2hlci10b2dnbGUgJgpjb21tYW5kX2xvZ291dCA9IHdsb2dvdXQKY29tbWFuZF9tdXRlID0gc3dheW9zZC1jbGllbnQgLS1vdXRwdXQtdm9sdW1lIG11dGUtdG9nZ2xlCmNvbW1hbmRfcm9maSA9IG53Zy1kcmF3ZXIgJgpjb21tYW5kX3NjcmVlbnNob3QgPSB+Ly5iaW4vZ3JpbXNob3Quc2ggLS1ub3RpZnkgc2F2ZSBzY3JlZW4KIyBjb21tYW5kX3NsdXJwID0gfi8uYmluL2dyaW1zaG90LnNoIC0tbm90aWZ5IHNhdmUgd2luZG93CmNvbW1hbmRfc2x1cnAgPSBncmltIC1nICIkKHNsdXJwKSIgLSB8IHN3YXBweSAtZiAtCmNvbW1hbmRfdGVybWluYWwgPSBibGFja2JveApjb21tYW5kX3ZvbGRvd24gPSB3cGN0bCBzZXQtdm9sdW1lIEBERUZBVUxUX0FVRElPX1NJTktAIDUlLSB8IHN3YXlvc2QtY2xpZW50IC0tb3V0cHV0LXZvbHVtZSBsb3dlcgpjb21tYW5kX3ZvbHVwID0gd3BjdGwgc2V0LXZvbHVtZSBAREVGQVVMVF9BVURJT19TSU5LQCA1JSsgfCBzd2F5b3NkLWNsaWVudCAtLW91dHB1dC12b2x1bWUgcmFpc2UKY29tbWFuZF93b2ZpID0gd29maSAtLXNob3cgZHJ1biAmCgpbY29yZV0KYmFja2dyb3VuZF9jb2xvciA9IFwjMUExQTFBRkYKY2xvc2VfdG9wX3ZpZXcgPSA8c3VwZXI+IEtFWV9RCmZvY3VzX2J1dHRvbl93aXRoX21vZGlmaWVycyA9IGZhbHNlCmZvY3VzX2J1dHRvbnMgPSBCVE5fTEVGVCB8IEJUTl9NSURETEUgfCBCVE5fUklHSFQKZm9jdXNfYnV0dG9uc19wYXNzdGhyb3VnaCA9IHRydWUKbWF4X3JlbmRlcl90aW1lID0gLTEKcGx1Z2lucyA9IGlwYyBpcGMtcnVsZXMgc3RpcGMgYWxwaGEgYW5pbWF0ZSBhdXRvc3RhcnQgY29tbWFuZCBjdWJlIGV4cG8gZmFzdC1zd2l0Y2hlciBmaXNoZXllIGdyaWQgZm9yZWlnbi10b3BsZXZlbCBndGstc2hlbGwgaWRsZSBtb3ZlIHBsYWNlIHJlc2l6ZSBzd2l0Y2hlciB2c3dpdGNoIHdpbmRvdy1ydWxlcyB3bS1hY3Rpb25zIHdvYmJseSB3cm90IHpvb20gc2NhbGUgd2YtaW5mbyB3c2V0cyBwaXhkZWNvciB3YXlmaXJlLXNoZWxsIGJsdXIKcHJlZmVycmVkX2RlY29yYXRpb25fbW9kZSA9IHNlcnZlcgp0cmFuc2FjdGlvbl90aW1lb3V0ID0gMTAwCnZoZWlnaHQgPSAzCnZ3aWR0aCA9IDMKeHdheWxhbmQgPSB0cnVlCgpbY3Jvc3NoYWlyXQpsaW5lX2NvbG9yID0gXCNGRjAwMDBGRgpsaW5lX3dpZHRoID0gMgoKW2N1YmVdCmFjdGl2YXRlID0gPGFsdD4gPGN0cmw+IEJUTl9MRUZUCmJhY2tncm91bmQgPSBcIzFBMUExQUZGCmJhY2tncm91bmRfbW9kZSA9IHNpbXBsZQpjdWJlbWFwX2ltYWdlID0gCmRlZm9ybSA9IDEKaW5pdGlhbF9hbmltYXRpb24gPSAzNTBtcyBjaXJjbGUKbGlnaHQgPSB0cnVlCnJvdGF0ZV9sZWZ0ID0gbm9uZQpyb3RhdGVfcmlnaHQgPSBub25lCnNreWRvbWVfbWlycm9yID0gdHJ1ZQpza3lkb21lX3RleHR1cmUgPSAKc3BlZWRfc3Bpbl9ob3JpeiA9IDAuMDIwMDAwCnNwZWVkX3NwaW5fdmVydCA9IDAuMDIwMDAwCnNwZWVkX3pvb20gPSAwLjA3MDAwMAp6b29tID0gMC4xMDAwMDAKCltkZWNvcmF0aW9uXQphY3RpdmVfY29sb3IgPSBcIzIyMjIyMkFBCmJvcmRlcl9zaXplID0gMApidXR0b25fb3JkZXIgPSBtaW5pbWl6ZSBtYXhpbWl6ZSBjbG9zZQpmb250ID0gc2Fucy1zZXJpZgppZ25vcmVfdmlld3MgPSBub25lCmluYWN0aXZlX2NvbG9yID0gXCMzMzMzMzNERAp0aXRsZV9oZWlnaHQgPSAwCgpbZXhwb10KYmFja2dyb3VuZCA9IFwjMUExQTFBRkYKZHVyYXRpb24gPSAzMDBtcyBjaXJjbGUKaW5hY3RpdmVfYnJpZ2h0bmVzcyA9IDAuNzAwMDAwCmtleWJvYXJkX2ludGVyYWN0aW9uID0gdHJ1ZQpvZmZzZXQgPSAxMApzZWxlY3Rfd29ya3NwYWNlXzEgPSA8Y3RybD4gS0VZXzEKc2VsZWN0X3dvcmtzcGFjZV8yID0gS0VZXzIKc2VsZWN0X3dvcmtzcGFjZV8zID0gS0VZXzMKc2VsZWN0X3dvcmtzcGFjZV80ID0gS0VZXzQKc2VsZWN0X3dvcmtzcGFjZV81ID0gS0VZXzUKc2VsZWN0X3dvcmtzcGFjZV82ID0gS0VZXzYKc2VsZWN0X3dvcmtzcGFjZV83ID0gS0VZXzcKc2VsZWN0X3dvcmtzcGFjZV84ID0gS0VZXzgKc2VsZWN0X3dvcmtzcGFjZV85ID0gS0VZXzkKdG9nZ2xlID0gPHN1cGVyPiAgfCBob3RzcG90IGxlZnQtdG9wIDEweDEwIDIwMAp0cmFuc2l0aW9uX2xlbmd0aCA9IDIwMAoKW2V4dHJhLWdlc3R1cmVzXQpjbG9zZV9maW5nZXJzID0gMjAKbW92ZV9kZWxheSA9IDUwMAptb3ZlX2ZpbmdlcnMgPSAzCgpbZmFzdC1zd2l0Y2hlcl0KYWN0aXZhdGUgPSA8YWx0PiBLRVlfRVNDCmFjdGl2YXRlX2JhY2t3YXJkID0gPGFsdD4gPHNoaWZ0PiBLRVlfRVNDCmluYWN0aXZlX2FscGhhID0gMC43MDAwMDAKCltmaXNoZXllXQpyYWRpdXMgPSA0NTAuMDAwMDAwCnRvZ2dsZSA9IDxjdHJsPiA8c3VwZXI+IEtFWV9GCnpvb20gPSA3LjAwMDAwMAoKW2ZvY3VzLWNoYW5nZV0KY3Jvc3Mtb3V0cHV0ID0gZmFsc2UKY3Jvc3Mtd29ya3NwYWNlID0gZmFsc2UKZG93biA9IDxzaGlmdD4gPHN1cGVyPiBLRVlfRE9XTgpncmFjZS1kb3duID0gMQpncmFjZS1sZWZ0ID0gMQpncmFjZS1yaWdodCA9IDEKZ3JhY2UtdXAgPSAxCmxlZnQgPSA8c2hpZnQ+IDxzdXBlcj4gS0VZX0xFRlQKcmFpc2Utb24tY2hhbmdlID0gdHJ1ZQpyaWdodCA9IDxzaGlmdD4gPHN1cGVyPiBLRVlfUklHSFQKc2Nhbi1oZWlnaHQgPSAwCnNjYW4td2lkdGggPSAwCnVwID0gPHNoaWZ0PiA8c3VwZXI+IEtFWV9VUAoKW2ZvY3VzLXN0ZWFsLXByZXZlbnRdCmNhbmNlbF9rZXlzID0gS0VZX0VOVEVSCmRlbnlfZm9jdXNfdmlld3MgPSBub25lCnRpbWVvdXQgPSAxMDAwCgpbZm9sbG93LWZvY3VzXQpjaGFuZ2Vfb3V0cHV0ID0gdHJ1ZQpjaGFuZ2VfdmlldyA9IHRydWUKZm9jdXNfZGVsYXkgPSA1MApyYWlzZV9vbl90b3AgPSB0cnVlCnRocmVzaG9sZCA9IDEwCgpbZm9yY2UtZnVsbHNjcmVlbl0KY29uc3RyYWluX3BvaW50ZXIgPSBmYWxzZQpjb25zdHJhaW50X2FyZWEgPSB2aWV3CmtleV90b2dnbGVfZnVsbHNjcmVlbiA9IDxhbHQ+IDxzdXBlcj4gS0VZX0YKcHJlc2VydmVfYXNwZWN0ID0gdHJ1ZQp0cmFuc3BhcmVudF9iZWhpbmRfdmlld3MgPSB0cnVlCnhfc2tldyA9IDAuMDAwMDAwCnlfc2tldyA9IDAuMDAwMDAwCgpbZm9yZWlnbi10b3BsZXZlbF0KCltncmlkXQpkdXJhdGlvbiA9IDMwMG1zIGNpcmNsZQpyZXN0b3JlID0gPHN1cGVyPiBLRVlfRE9XTiB8IDxzdXBlcj4gS0VZX0tQMApzbG90X2IgPSA8c3VwZXI+IEtFWV9LUDIKc2xvdF9ibCA9IDxzdXBlcj4gS0VZX0tQMQpzbG90X2JyID0gPHN1cGVyPiBLRVlfS1AzCnNsb3RfYyA9IDxzdXBlcj4gS0VZX1VQIHwgPHN1cGVyPiBLRVlfS1A1CnNsb3RfbCA9IDxzdXBlcj4gS0VZX0xFRlQgfCA8c3VwZXI+IEtFWV9LUDQKc2xvdF9yID0gPHN1cGVyPiBLRVlfUklHSFQgfCA8c3VwZXI+IEtFWV9LUDYKc2xvdF90ID0gPHN1cGVyPiBLRVlfS1A4CnNsb3RfdGwgPSA8c3VwZXI+IEtFWV9LUDcKc2xvdF90ciA9IDxzdXBlcj4gS0VZX0tQOQp0eXBlID0gY3Jvc3NmYWRlCgpbZ3RrLXNoZWxsXQoKW2hpZGUtY3Vyc29yXQpoaWRlX2RlbGF5ID0gMjAwMAp0b2dnbGUgPSA8Y3RybD4gPHN1cGVyPiBLRVlfSAoKW2hpbmdlXQpmaWxlbmFtZSA9IC9zeXMvYnVzL2lpby9kZXZpY2VzL2lpbzpkZXZpY2UxL2luX2FuZ2wwX3JhdwpmbGlwX2RlZ3JlZSA9IDE4MApwb2xsX2ZyZXEgPSAyMDAKCltpZGxlXQpjdWJlX21heF96b29tID0gMS41MDAwMDAKY3ViZV9yb3RhdGVfc3BlZWQgPSAxLjAwMDAwMApjdWJlX3pvb21fc3BlZWQgPSAxMDAwCmRpc2FibGVfaW5pdGlhbGx5ID0gZmFsc2UKZGlzYWJsZV9vbl9mdWxsc2NyZWVuID0gZmFsc2UKZHBtc190aW1lb3V0ID0gLTEKc2NyZWVuc2F2ZXJfdGltZW91dCA9IDEyMAp0b2dnbGUgPSBub25lCgpbaW5wdXRdCmNsaWNrX21ldGhvZCA9IGRlZmF1bHQKY3Vyc29yX3NpemUgPSAyNApjdXJzb3JfdGhlbWUgPSBCaWJhdGEtTW9kZXJuLUNsYXNzaWMKZGlzYWJsZV90b3VjaHBhZF93aGlsZV9tb3VzZSA9IGZhbHNlCmRpc2FibGVfdG91Y2hwYWRfd2hpbGVfdHlwaW5nID0gZmFsc2UKZHJhZ19sb2NrID0gZmFsc2UKZ2VzdHVyZV9zZW5zaXRpdml0eSA9IDEuMDAwMDAwCmtiX2NhcHNsb2NrX2RlZmF1bHRfc3RhdGUgPSBmYWxzZQprYl9udW1sb2NrX2RlZmF1bHRfc3RhdGUgPSB0cnVlCmtiX3JlcGVhdF9kZWxheSA9IDQwMAprYl9yZXBlYXRfcmF0ZSA9IDQwCmxlZnRfaGFuZGVkX21vZGUgPSBmYWxzZQptaWRkbGVfZW11bGF0aW9uID0gZmFsc2UKbW9kaWZpZXJfYmluZGluZ190aW1lb3V0ID0gNDAwCm1vdXNlX2FjY2VsX3Byb2ZpbGUgPSBkZWZhdWx0Cm1vdXNlX2N1cnNvcl9zcGVlZCA9IDAuMDAwMDAwCm1vdXNlX3Njcm9sbF9zcGVlZCA9IDEuMDAwMDAwCm5hdHVyYWxfc2Nyb2xsID0gZmFsc2UKc2Nyb2xsX21ldGhvZCA9IGRlZmF1bHQKdGFibGV0X21vdGlvbl9tb2RlID0gZGVmYXVsdAp0YXBfdG9fY2xpY2sgPSB0cnVlCnRvdWNocGFkX2FjY2VsX3Byb2ZpbGUgPSBkZWZhdWx0CnRvdWNocGFkX2N1cnNvcl9zcGVlZCA9IDAuMDAwMDAwCnRvdWNocGFkX3Njcm9sbF9zcGVlZCA9IDEuMDAwMDAwCnhrYl9sYXlvdXQgPSB1cyxjYQp4a2JfbW9kZWwgPSBwYzEwNQp4a2Jfb3B0aW9ucyA9IGdycDphbHRfc2hpZnRfdG9nZ2xlCnhrYl9ydWxlcyA9IGV2ZGV2CnhrYl92YXJpYW50ID0gYWx0Z3ItaW50bAoKW2lucHV0LWRldmljZV0Kb3V0cHV0ID0gCgpbaW5wdXQtbWV0aG9kLXYxXQplbmFibGVfdGV4dF9pbnB1dF92MSA9IHRydWUKZW5hYmxlX3RleHRfaW5wdXRfdjMgPSB0cnVlCgpbaW52ZXJ0XQpwcmVzZXJ2ZV9odWUgPSBmYWxzZQp0b2dnbGUgPSA8c3VwZXI+IEtFWV9JCgpbaXBjXQoKW2lwYy1ydWxlc10KCltqb2luLXZpZXdzXQoKW2tleWNvbG9yXQpjb2xvciA9IFwjMDAwMDAwRkYKb3BhY2l0eSA9IDAuMjUwMDAwCnRocmVzaG9sZCA9IDAuNTAwMDAwCgpbbWFnXQpkZWZhdWx0X2hlaWdodCA9IDUwMAp0b2dnbGUgPSA8YWx0PiA8c3VwZXI+IEtFWV9NCnpvb21fbGV2ZWwgPSA3NQoKW21vdmVdCmFjdGl2YXRlID0gPHN1cGVyPiBCVE5fTEVGVAplbmFibGVfc25hcCA9IHRydWUKZW5hYmxlX3NuYXBfb2ZmID0gdHJ1ZQpqb2luX3ZpZXdzID0gZmFsc2UKcHJldmlld19iYXNlX2JvcmRlciA9IFwjNDA0MDgwQ0MKcHJldmlld19iYXNlX2NvbG9yID0gXCM4MDgwRkY4MApwcmV2aWV3X2JvcmRlcl93aWR0aCA9IDMKcXVhcnRlcl9zbmFwX3RocmVzaG9sZCA9IDUwCnNuYXBfb2ZmX3RocmVzaG9sZCA9IDIwMApzbmFwX3RocmVzaG9sZCA9IDEwCndvcmtzcGFjZV9zd2l0Y2hfYWZ0ZXIgPSAtMQoKW29ic10KCltvc3dpdGNoXQpuZXh0X291dHB1dCA9IDxzdXBlcj4gS0VZX08KbmV4dF9vdXRwdXRfd2l0aF93aW4gPSA8c2hpZnQ+IDxzdXBlcj4gS0VZX08KcHJldl9vdXRwdXQgPSAKcHJldl9vdXRwdXRfd2l0aF93aW4gPSAKCltvdXRwdXRdCmRlcHRoID0gOAptb2RlID0gYXV0bwpwb3NpdGlvbiA9IGF1dG8Kc2NhbGUgPSAxLjAwMDAwMAp0cmFuc2Zvcm0gPSBub3JtYWwKdnJyID0gZmFsc2UKCltwaXhkZWNvcl0KYWx3YXlzX2RlY29yYXRlID0gaW12CmFuaW1hdGUgPSB0cnVlCmJnX2NvbG9yID0gXCMyQUMzREVGRgpiZ190ZXh0X2NvbG9yID0gXCNCM0IzQjNGRgpib3JkZXJfc2l6ZSA9IDIKZWZmZWN0X2NvbG9yID0gXCM5RDdDRDhGRgplZmZlY3RfdHlwZSA9IG5vbmUKZmdfY29sb3IgPSBcI2MzZTg4ZEZGCmZnX3RleHRfY29sb3IgPSBcI0ZGRkZGRkZGCmlnbm9yZV92aWV3cyA9IChhcHBfaWQgaXMgInVsYXVuY2hlciIpCm1heGltaXplZF9ib3JkZXJzID0gdHJ1ZQptYXhpbWl6ZWRfc2hhZG93cyA9IHRydWUKb3ZlcmxheV9lbmdpbmUgPSByb3VuZGVkX2Nvcm5lcnMKcm91bmRlZF9jb3JuZXJfcmFkaXVzID0gNApzaGFkb3dfY29sb3IgPSBcIzAwMDAwMDQwCnNoYWRvd19yYWRpdXMgPSAxMAp0aXRsZWJhciA9IGZhbHNlCgpbcGxhY2VdCm1vZGUgPSBjZW50ZXIKCltwcmVzZXJ2ZS1vdXRwdXRdCmxhc3Rfb3V0cHV0X2ZvY3VzX3RpbWVvdXQgPSAxMDAwMAoKW3Jlc2l6ZV0KYWN0aXZhdGUgPSA8c3VwZXI+IEJUTl9SSUdIVAphY3RpdmF0ZV9wcmVzZXJ2ZV9hc3BlY3QgPSBub25lCgpbc2NhbGVdCmFsbG93X3pvb20gPSBmYWxzZQpiZ19jb2xvciA9IFwjMUExQTFBRTYKY2xvc2Vfb25fbmV3X3ZpZXcgPSBmYWxzZQpkdXJhdGlvbiA9IDQwMG1zIGNpcmNsZQppbmFjdGl2ZV9hbHBoYSA9IDAuNzUwMDAwCmluY2x1ZGVfbWluaW1pemVkID0gZmFsc2UKaW50ZXJhY3QgPSBmYWxzZQptaWRkbGVfY2xpY2tfY2xvc2UgPSBmYWxzZQptaW5pbWl6ZWRfYWxwaGEgPSAwLjQ1MDAwMApvdXRlcl9tYXJnaW4gPSAwCnNwYWNpbmcgPSA1MAp0ZXh0X2NvbG9yID0gXCNDQ0NDQ0NGRgp0aXRsZV9mb250X3NpemUgPSAxNgp0aXRsZV9vdmVybGF5ID0gYWxsCnRpdGxlX3Bvc2l0aW9uID0gY2VudGVyCnRvZ2dsZSA9IDxzdXBlcj4gS0VZX1AKdG9nZ2xlX2FsbCA9IDxzdXBlcj4gS0VZX1cKCltzY2FsZS10aXRsZS1maWx0ZXJdCmJnX2NvbG9yID0gXCMwMDAwMDA4MApjYXNlX3NlbnNpdGl2ZSA9IGZhbHNlCmZvbnRfc2l6ZSA9IDMwCm92ZXJsYXkgPSB0cnVlCnNoYXJlX2ZpbHRlciA9IGZhbHNlCnRleHRfY29sb3IgPSBcI0NDQ0NDQ0NDCgpbc2Vzc2lvbi1sb2NrXQoKW3Nob3J0Y3V0cy1pbmhpYml0XQpicmVha19ncmFiID0gbm9uZQppZ25vcmVfdmlld3MgPSBub25lCmluaGliaXRfYnlfZGVmYXVsdCA9IG5vbmUKCltzaG93cmVwYWludF0KcmVkdWNlX2ZsaWNrZXIgPSB0cnVlCnRvZ2dsZSA9IDxhbHQ+IDxzdXBlcj4gS0VZX1MKCltzaW1wbGUtdGlsZV0KYW5pbWF0aW9uX2R1cmF0aW9uID0gMG1zIGNpcmNsZQpidXR0b25fbW92ZSA9IDxzdXBlcj4gQlROX0xFRlQKYnV0dG9uX3Jlc2l6ZSA9IDxzdXBlcj4gQlROX1JJR0hUCmlubmVyX2dhcF9zaXplID0gNQprZWVwX2Z1bGxzY3JlZW5fb25fYWRqYWNlbnQgPSB0cnVlCmtleV9mb2N1c19hYm92ZSA9IDxzdXBlcj4gS0VZX0sKa2V5X2ZvY3VzX2JlbG93ID0gPHN1cGVyPiBLRVlfSgprZXlfZm9jdXNfbGVmdCA9IDxzdXBlcj4gS0VZX0gKa2V5X2ZvY3VzX3JpZ2h0ID0gPHN1cGVyPiBLRVlfTAprZXlfdG9nZ2xlID0gPHN1cGVyPiBLRVlfVApvdXRlcl9ob3Jpel9nYXBfc2l6ZSA9IDAKb3V0ZXJfdmVydF9nYXBfc2l6ZSA9IDAKcHJldmlld19iYXNlX2JvcmRlciA9IFwjNDA0MDgwQ0MKcHJldmlld19iYXNlX2NvbG9yID0gXCM4MDgwRkY4MApwcmV2aWV3X2JvcmRlcl93aWR0aCA9IDMKdGlsZV9ieV9kZWZhdWx0ID0gYWxsCgpbc3dpdGNoZXJdCm5leHRfdmlldyA9IDxhbHQ+IEtFWV9UQUIKcHJldl92aWV3ID0gPGFsdD4gPHNoaWZ0PiBLRVlfVEFCCnNwZWVkID0gNTAwbXMgY2lyY2xlCnZpZXdfdGh1bWJuYWlsX3JvdGF0aW9uID0gMzAKdmlld190aHVtYm5haWxfc2NhbGUgPSAxLjAwMDAwMAoKW3ZpZXctc2hvdF0KY2FwdHVyZSA9IDxhbHQ+IDxzdXBlcj4gQlROX01JRERMRQpjb21tYW5kID0gbm90aWZ5LXNlbmQgIlRoZSB2aWV3IHVuZGVyIGN1cnNvciB3YXMgY2FwdHVyZWQgdG8gJWYiCmZpbGVuYW1lID0gL3RtcC9zbmFwc2hvdC0lRi0lVC5wbmcKClt2c3dpcGVdCmJhY2tncm91bmQgPSBcIzFBMUExQUZGCmRlbHRhX3RocmVzaG9sZCA9IDI0LjAwMDAwMApkdXJhdGlvbiA9IDE4MG1zIGNpcmNsZQplbmFibGVfZnJlZV9tb3ZlbWVudCA9IGZhbHNlCmVuYWJsZV9ob3Jpem9udGFsID0gdHJ1ZQplbmFibGVfc21vb3RoX3RyYW5zaXRpb24gPSBmYWxzZQplbmFibGVfdmVydGljYWwgPSB0cnVlCmZpbmdlcnMgPSA0CmdhcCA9IDMyLjAwMDAwMApzcGVlZF9jYXAgPSAwLjA1MDAwMApzcGVlZF9mYWN0b3IgPSAyNTYuMDAwMDAwCnRocmVzaG9sZCA9IDAuMzUwMDAwCgpbdnN3aXRjaF0KYmFja2dyb3VuZCA9IFwjMUExQTFBRkYKYmluZGluZ19kb3duID0gPGN0cmw+IEtFWV9ET1dOCmJpbmRpbmdfbGFzdCA9IApiaW5kaW5nX2xlZnQgPSA8Y3RybD4gS0VZX0xFRlQKYmluZGluZ19yaWdodCA9IDxjdHJsPiBLRVlfUklHSFQKYmluZGluZ191cCA9IDxjdHJsPiBLRVlfVVAKZHVyYXRpb24gPSAzMDBtcyBjaXJjbGUKZ2FwID0gMjAKc2VuZF93aW5fZG93biA9IApzZW5kX3dpbl9sYXN0ID0gCnNlbmRfd2luX2xlZnQgPSAKc2VuZF93aW5fcmlnaHQgPSAKc2VuZF93aW5fdXAgPSAKd2l0aF93aW5fZG93biA9IDxjdHJsPiA8c3VwZXI+IEtFWV9ET1dOCndpdGhfd2luX2xhc3QgPSAKd2l0aF93aW5fbGVmdCA9IDxjdHJsPiA8c3VwZXI+IEtFWV9MRUZUCndpdGhfd2luX3JpZ2h0ID0gPGN0cmw+IDxzdXBlcj4gS0VZX1JJR0hUCndpdGhfd2luX3VwID0gPGN0cmw+IDxzdXBlcj4gS0VZX1VQCndyYXBhcm91bmQgPSB0cnVlCgpbd2F0ZXJdCmFjdGl2YXRlID0gPGN0cmw+IDxzdXBlcj4gQlROX0xFRlQKClt3YXlmaXJlLXNoZWxsXQp0b2dnbGVfbWVudSA9IDxzdXBlcj4gCgpbd2YtaW5mb10KClt3aW5kb3ctcnVsZXNdCnJ1bGVfMDAxID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgInRodW5hciIgdGhlbiBzZXQgZ2VvbWV0cnkgMjM2IDgzIDg4NiA1NTIKcnVsZV8wMDIgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAidGh1bmFyIiB0aGVuIHNldCBhbHBoYSAwLjgKcnVsZV8wMDIxID0gb24gY3JlYXRlZCBpZiB0aXRsZSBjb250YWlucyAiUmVuYW1lIiB0aGVuIHNldCBnZW9tZXRyeSA0ODUgMjQxIDQxOCAyMTUKcnVsZV8wMDIyID0gb24gY3JlYXRlZCBpZiB0aXRsZSBjb250YWlucyAiUHJvcGVydGllcyIgdGhlbiBzZXQgZ2VvbWV0cnkgMzc4IDkxIDU3MiA1NDEKcnVsZV8wMDMgPSBvbiBjcmVhdGVkIGlmIHRpdGxlIGlzICJibHVlYnl0IC0gVGh1bmFyIiB0aGVuIGFzc2lnbl93b3Jrc3BhY2UgMCAwCnJ1bGVfMDA0ID0gb24gY3JlYXRlZCBpZiB0aXRsZSBpcyAiRG93bmxvYWRzIC0gVGh1bmFyIiB0aGVuIGFzc2lnbl93b3Jrc3BhY2UgMiAwCnJ1bGVfMDA1ID0gb24gY3JlYXRlZCBpZiB0aXRsZSBpcyAibWVkaWEgLSBUaHVuYXIiIHRoZW4gYXNzaWduX3dvcmtzcGFjZSAyIDIKcnVsZV8wMDYgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAiQWxhY3JpdHR5IiB0aGVuIHNldCBnZW9tZXRyeSAxMzAxIDEyMSA3ODkgNDc0CnJ1bGVfMDA3ID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgIkFsYWNyaXR0eSIgdGhlbiBzZXQgYWxwaGEgMC44CnJ1bGVfMDA4ID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgIkFsYWNyaXR0eSIgdGhlbiBhc3NpZ25fd29ya3NwYWNlIDAgMApydWxlXzAwOSA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJraXR0eSIgdGhlbiBzZXQgZ2VvbWV0cnkgMjYzIDY3MiA4NTkgNDgzCnJ1bGVfMDEwID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgImtpdHR5IiB0aGVuIHNldCBhbHBoYSAwLjgKcnVsZV8wMTEgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAia2l0dHkiIHRoZW4gYXNzaWduX3dvcmtzcGFjZSAwIDAKcnVsZV8wMTIgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAibXB2IiB0aGVuIHNldCBnZW9tZXRyeSAxMzA0IDcxNyA4MTIgNDc2CnJ1bGVfMDEzID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgIm1wdiIgdGhlbiBhc3NpZ25fd29ya3NwYWNlIDAgMApydWxlXzAxNCA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJicmF2ZS1icm93c2VyLWJldGEiIHRoZW4gc2V0IGdlb21ldHJ5IDI0MSA1OCAxODY1IDEyMTcKcnVsZV8wMTUgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAiYnJhdmUtYnJvd3Nlci1iZXRhIiB0aGVuIHNldCBhbHBoYSAxLjAKcnVsZV8wMTYgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAiYnJhdmUtYnJvd3Nlci1iZXRhIiB0aGVuIGFzc2lnbl93b3Jrc3BhY2UgMSAwCnJ1bGVfMDE3ID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgIm9yZy53ZXpmdXJsb25nLndlenRlcm0iIHRoZW4gbW92ZSAyNTQgNjcwCnJ1bGVfMDE4ID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgIm9yZy53ZXpmdXJsb25nLndlenRlcm0iIHRoZW4gc2V0IGFscGhhIDAuOApydWxlXzAxOSA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJvcmcud2V6ZnVybG9uZy53ZXp0ZXJtIiB0aGVuIGFzc2lnbl93b3Jrc3BhY2UgMiAwCgpydWxlXzAyMCA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJsaXRlLXhsIiB0aGVuIHNldCBnZW9tZXRyeSAxMTIxIDUzIDEwOTUgMTIxNApydWxlXzAyMSA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJsaXRlLXhsIiB0aGVuIHNldCBhbHBoYSAwLjgKcnVsZV8wMjIgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAibGl0ZS14bCIgdGhlbiBhc3NpZ25fd29ya3NwYWNlIDIgMApydWxlXzAyMyA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJvcmcuZ25vbWUuVGV4dEVkaXRvciIgdGhlbiBtb3ZlIDExNjAgODAKcnVsZV8wMjQgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAib3JnLmdub21lLlRleHRFZGl0b3IiIHRoZW4gc2V0IGFscGhhIDAuOApydWxlXzAyNSA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJvcmcuZ25vbWUuVGV4dEVkaXRvciIgdGhlbiBhc3NpZ25fd29ya3NwYWNlIDIgMApydWxlXzAyNiA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJud2ctbG9vayIgdGhlbiBzZXQgZ2VvbWV0cnkgMjcwIDEyOSA4MjEgNTE5CnJ1bGVfMDI3ID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgIm53Zy1sb29rIiB0aGVuIHNldCBhbHBoYSAwLjgKcnVsZV8wMjggPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAibndnLWxvb2siIHRoZW4gYXNzaWduX3dvcmtzcGFjZSAwIDEKcnVsZV8wMjkgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAiYmx1ZW1hbi1tYW5hZ2VyIiB0aGVuIHNldCBnZW9tZXRyeSAxNDAwIDc1MCAzMDAgNTAwCnJ1bGVfMDMwID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgImJsdWVtYW4tbWFuYWdlciIgdGhlbiBzZXQgYWxwaGEgMC43CnJ1bGVfMDMxID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgImJsdWVtYW4tbWFuYWdlciIgdGhlbiBhc3NpZ25fd29ya3NwYWNlIDAgMQpydWxlXzAzMiA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJvcmcucHVsc2VhdWRpby5wYXZ1Y29udHJvbCIgdGhlbiBzZXQgZ2VvbWV0cnkgMjgwIDcxMCA4MDAgNTAwCnJ1bGVfMDMzID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgIm9yZy5wdWxzZWF1ZGlvLnBhdnVjb250cm9sIiB0aGVuIHNldCBhbHBoYSAwLjkKcnVsZV8wMzQgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAib3JnLnB1bHNlYXVkaW8ucGF2dWNvbnRyb2wiIHRoZW4gYXNzaWduX3dvcmtzcGFjZSAwIDEKcnVsZV8wMzUgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAiZmlyZWZveCIgdGhlbiBtb3ZlIDI5MCA3MQpydWxlXzAzNiA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJmaXJlZm94IiB0aGVuIHNldCBhbHBoYSAxLjAKcnVsZV8wMzcgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAiZmlyZWZveCIgdGhlbiBhc3NpZ25fd29ya3NwYWNlIDEgMQpydWxlXzAzOCA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJjaHJvbWl1bSIgdGhlbiBtb3ZlIDI4MCA3MApydWxlXzAzOSA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJjaHJvbWl1bSIgdGhlbiBzZXQgYWxwaGEgMS4wCnJ1bGVfMDQwID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgImNocm9taXVtIiB0aGVuIGFzc2lnbl93b3Jrc3BhY2UgMSAwCnJ1bGVfMDQyID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgInJpc3RyZXR0byIgdGhlbiBzZXQgZ2VvbWV0cnkgNTgwIDE2MiAxNDY4IDEwNTkKcnVsZV8wNDEgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAicmlzdHJldHRvIiB0aGVuIGFzc2lnbl93b3Jrc3BhY2UgMiAxCnJ1bGVfMDQyID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgImZvb3QiIHRoZW4gc2V0IGdlb21ldHJ5IDMwOCA5MyAxNzYwIDExNzEKcnVsZV8wNDMgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAiZm9vdCIgdGhlbiBzZXQgYWxwaGEgMC44CnJ1bGVfMDQ0ID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgImZvb3QiIHRoZW4gYXNzaWduX3dvcmtzcGFjZSAwIDIKcnVsZV8wNDUgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAidmVza3RvcCIgdGhlbiBzZXQgZ2VvbWV0cnkgNDEyIDYyIDE3NzQgMTI1MQpydWxlXzA0NiA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJ2ZXNrdG9wIiB0aGVuIHNldCBhbHBoYSAwLjgKcnVsZV8wNDcgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAidmVza3RvcCIgdGhlbiBhc3NpZ25fd29ya3NwYWNlIDEgMgpydWxlXzA0OCA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJ4ZmNlNC10ZXJtaW5hbCIgdGhlbiBzZXQgZ2VvbWV0cnkgMjMxIDY1MCA4NDkgNTc1CnJ1bGVfMDQ5ID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgInhmY2U0LXRlcm1pbmFsIiB0aGVuIHNldCBhbHBoYSAwLjgKcnVsZV8wNTEgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAicGNtYW5mbSIgdGhlbiBtb3ZlIDI3MCAxMDAKcnVsZV8wNTIgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAicGNtYW5mbSIgdGhlbiBhc3NpZ25fd29ya3NwYWNlIDIgMgpydWxlXzA1MyA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJ1bGF1bmNoZXIiIHRoZW4gY2VudGVyCnJ1bGVfMDU0ID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgInVsYXVuY2hlciIgdGhlbiBzZXQgYWxwaGEgMC43CnJ1bGVfMDU1ID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgIkNvbmt5IiB0aGVuIHNldCBzdGlja3kKcnVsZV8wNTYgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAiY29tLmdpdGh1Yi5yYWZvc3Rhci5DbGFwcGVyIiB0aGVuIHNldCBnZW9tZXRyeSAxMzUwIDcyMCA3NTAgNTAwCnJ1bGVfMDU3ID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgImNvbS5naXRodWIucmFmb3N0YXIuQ2xhcHBlciIgdGhlbiBhc3NpZ25fd29ya3NwYWNlIDIgMgpydWxlXzA1OCA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJHU3RyZWFtZXIgZ3N0LXBsYXktMS4wIiB0aGVuIHNldCBnZW9tZXRyeSAxMzUwIDgyMCA3NTAgNTAwCnJ1bGVfMDU5ID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgIm5lbW8gb3JnLk5lbW8iIHRoZW4gc2V0IGFscGhhIDAuOApydWxlXzA2MCA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJuZW1vIG9yZy5OZW1vIiB0aGVuIGFzc2lnbl93b3Jrc3BhY2UgMSAyCnJ1bGVfMDYxID0gb24gY3JlYXRlZCBpZiB0aXRsZSBjb250YWlucyAiTWFuaXB1bGF0aW9uIFByb2dyYW0iIHRoZW4gbW92ZSAyNzAgNzAKcnVsZV8wNjIgPSBvbiBjcmVhdGVkIGlmIHRpdGxlIGNvbnRhaW5zICJNYW5pcHVsYXRpb24gUHJvZ3JhbSIgdGhlbiBzZXQgYWxwaGEgMC45CnJ1bGVfMDYzID0gb24gY3JlYXRlZCBpZiB0aXRsZSBjb250YWlucyAiTWFuaXB1bGF0aW9uIFByb2dyYW0iIHRoZW4gYXNzaWduX3dvcmtzcGFjZSAyIDIKcnVsZV8wNjQgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAib3JnLmdub21lLlB0eXhpcy5EZXZlbCIgdGhlbiBzZXQgYWxwaGEgMC44CnJ1bGVfMDY1ID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgIm9yZy5nbm9tZS5QdHl4aXMuRGV2ZWwiIHRoZW4gYXNzaWduX3dvcmtzcGFjZSAxIDEKcnVsZV8wNjYgPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAiY29tLnJhZ2dlc2lsdmVyLkJsYWNrQm94IiB0aGVuIG1vdmUgMjcwIDcwMApydWxlXzA2NyA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJjb20ucmFnZ2VzaWx2ZXIuQmxhY2tCb3giIHRoZW4gYXNzaWduX3dvcmtzcGFjZSAyIDIKcnVsZV8wNjggPSBvbiBjcmVhdGVkIGlmIGFwcF9pZCBpcyAiaW8uZ2l0aHViLmNlbGx1bG9pZF9wbGF5ZXIuQ2VsbHVsb2lkIiB0aGVuIHNldCBnZW9tZXRyeSAxMjMxIDY3NyAxMzggNTEyCgpydWxlXzA2OSA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJvcmcua2RlLmtkZW5saXZlIiB0aGVuIHNldCBnZW9tZXRyeSAyNTUgODEgMTk2OSAxMTU1CnJ1bGVfMDcwID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgIm9yZy5rZGUua2RlbmxpdmUiIHRoZW4gc2V0IGFscGhhIDAuOQpydWxlXzA3MSA9IG9uIGNyZWF0ZWQgaWYgYXBwX2lkIGlzICJvcmcua2RlLmtkZW5saXZlIiB0aGVuIGFzc2lnbl93b3Jrc3BhY2UgMiAyCnJ1bGVfMDcyID0gb24gY3JlYXRlZCBpZiBhcHBfaWQgaXMgInBhbmVsIiB0aGVuIHNldCBhbHBoYSAwLjYKcnVsZV8wNzMgID0gb24gY3JlYXRlZCBpZiB0aXRsZSBpcyAiUGljdHVyZS1pbi1QaWN0dXJlIiB0aGVuIHNldCBhbHdheXNfb25fdG9wCgpbd2luem9vbV0KZGVjX3hfYmluZGluZyA9IDxjdHJsPiA8c3VwZXI+IEtFWV9MRUZUCmRlY195X2JpbmRpbmcgPSA8Y3RybD4gPHN1cGVyPiBLRVlfVVAKaW5jX3hfYmluZGluZyA9IDxjdHJsPiA8c3VwZXI+IEtFWV9SSUdIVAppbmNfeV9iaW5kaW5nID0gPGN0cmw+IDxzdXBlcj4gS0VZX0RPV04KbW9kaWZpZXIgPSA8Y3RybD4gPHN1cGVyPiAKbmVhcmVzdF9maWx0ZXJpbmcgPSBmYWxzZQpwcmVzZXJ2ZV9hc3BlY3QgPSB0cnVlCnpvb21fc3RlcCA9IDAuMTAwMDAwCgpbd20tYWN0aW9uc10KbWluaW1pemUgPSBub25lCnNlbmRfdG9fYmFjayA9IG5vbmUKdG9nZ2xlX2Fsd2F5c19vbl90b3AgPSBub25lCnRvZ2dsZV9mdWxsc2NyZWVuID0gbm9uZQp0b2dnbGVfbWF4aW1pemUgPSBub25lCnRvZ2dsZV9zaG93ZGVza3RvcCA9IG5vbmUKdG9nZ2xlX3N0aWNreSA9IG5vbmUKClt3b2JibHldCmZyaWN0aW9uID0gMy4wMDAwMDAKZ3JpZF9yZXNvbHV0aW9uID0gNgpzcHJpbmdfayA9IDguMDAwMDAwCgpbd29ya2Fyb3VuZHNdCmFsbF9kaWFsb2dzX21vZGFsID0gdHJ1ZQphcHBfaWRfbW9kZSA9IGZ1bGwKZGlzY2FyZF9jb21tYW5kX291dHB1dCA9IHRydWUKZHluYW1pY19yZXBhaW50X2RlbGF5ID0gZmFsc2UKZW5hYmxlX2lucHV0X21ldGhvZF92MiA9IGZhbHNlCmVuYWJsZV9vcGFxdWVfcmVnaW9uX2RhbWFnZV9vcHRpbWl6YXRpb25zID0gZmFsc2UKZW5hYmxlX3NvX3VubG9hZGluZyA9IGZhbHNlCmZvcmNlX3ByZWZlcnJlZF9kZWNvcmF0aW9uX21vZGUgPSBmYWxzZQpyZW1vdmVfb3V0cHV0X2xpbWl0cyA9IGZhbHNlCnVzZV9leHRlcm5hbF9vdXRwdXRfY29uZmlndXJhdGlvbiA9IGZhbHNlCgpbd29ya3NwYWNlLW5hbWVzXQpiYWNrZ3JvdW5kX2NvbG9yID0gXCMzMzMzMzNCMwpiYWNrZ3JvdW5kX3JhZGl1cyA9IDMwLjAwMDAwMApkaXNwbGF5X2R1cmF0aW9uID0gNTAwCmZvbnQgPSBzYW5zLXNlcmlmCm1hcmdpbiA9IDAKcG9zaXRpb24gPSBjZW50ZXIKc2hvd19vcHRpb25fbmFtZXMgPSBmYWxzZQp0ZXh0X2NvbG9yID0gXCNGRkZGRkZGRgoKW3dyb3RdCmFjdGl2YXRlID0gPGN0cmw+IDxzdXBlcj4gQlROX1JJR0hUCmFjdGl2YXRlLTNkID0gPHNoaWZ0PiA8c3VwZXI+IEJUTl9SSUdIVAppbnZlcnQgPSBmYWxzZQpyZXNldCA9IDxjdHJsPiA8c3VwZXI+IEtFWV9SCnJlc2V0LW9uZSA9IDxzdXBlcj4gS0VZX1IKcmVzZXRfcmFkaXVzID0gMjUuMDAwMDAwCnNlbnNpdGl2aXR5ID0gMjQKClt3c2V0c10KbGFiZWxfZHVyYXRpb24gPSAyMDAwbXMgY2lyY2xlCgpbeGRnLWFjdGl2YXRpb25dCgpbem9vbV0KaW50ZXJwb2xhdGlvbl9tZXRob2QgPSAwCm1vZGlmaWVyID0gPHN1cGVyPiAKc21vb3RoaW5nX2R1cmF0aW9uID0gMzAwbXMgY2lyY2xlCnNwZWVkID0gMC4wMTAwMDA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAPBIAAAAAAAAAAAAAAAA8L8"
 						]
 					]
 				}
@@ -401,15 +1134,16 @@
 			"expanded_folders":
 			[
 				"/home/vamshi/.config",
-				"/home/vamshi/.config/hypr",
-				"/home/vamshi/.config/hypr/conf",
 				"/home/vamshi/.config/kitty"
 			],
 			"file_history":
 			[
+				"/home/vamshi/.config/hypr/conf/keybindings.conf",
+				"/home/vamshi/.config/hypr/conf/environment.conf",
+				"/home/vamshi/.config/wayfire.ini",
+				"/home/vamshi/.config/waybar/style.css",
 				"/home/vamshi/.config/hypr/conf/sidebar.conf",
 				"/home/vamshi/.config/hypr/monitors.conf",
-				"/home/vamshi/.config/hypr/conf/keybindings.conf",
 				"/home/vamshi/.config/hypr/hyprland.conf",
 				"/home/vamshi/.config/wlogout/layout",
 				"/home/vamshi/.config/wlogout/style.css",
@@ -417,7 +1151,6 @@
 				"/home/vamshi/.config/neofetch/config.conf",
 				"/home/vamshi/.config/starship/starship.toml",
 				"/home/vamshi/.config/dunst/dunstrc",
-				"/home/vamshi/.config/waybar/style.css",
 				"/home/vamshi/.config/swaync/config.json",
 				"/home/vamshi/.config/swaync/style.css",
 				"/home/vamshi/.config/hypr/conf/autostart.conf",
@@ -427,7 +1160,6 @@
 				"/home/vamshi/.config/waybar/scripts/weather.sh",
 				"/home/vamshi/.config/nwg-displays/config",
 				"/home/vamshi/.config/hypr/conf/monitors.conf",
-				"/home/vamshi/.config/hypr/conf/environment.conf",
 				"/home/vamshi/.config/hypr/conf/workspaces.conf",
 				"/home/vamshi/.config/hypr/conf/lookfeel.conf",
 				"/home/vamshi/.config/hypr/conf/keyboard.conf",
@@ -441,7 +1173,7 @@
 			],
 			"find":
 			{
-				"height": 25.0
+				"height": 26.0
 			},
 			"find_in_files":
 			{
@@ -455,6 +1187,13 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"user",
+					"vivek",
+					"autoatart",
+					"wobbly",
+					"keybindings",
+					"reload",
+					"bar",
 					"image_source"
 				],
 				"highlight": true,
@@ -463,6 +1202,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"vamshi"
 				],
 				"reverse": false,
 				"scrollbar_highlights": true,
@@ -485,28 +1225,94 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/vamshi/.config/hypr/conf/keybindings.conf",
-							"selected": true,
+							"file": "/home/vamshi/.config/wlogout/layout",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2879,
+								"buffer_size": 876,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2878,
-										2878
+										338,
+										342
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"auto_name": "{",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 936.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/vamshi/.config/wlogout/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1222,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										604,
+										604
+									]
+								],
+								"settings":
+								{
+									"auto_name": "window {",
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/vamshi/.config/wayfire.ini",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9785,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9785,
+										9785
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5985.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -518,7 +1324,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 25.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -552,11 +1358,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,946,1032,1920,1080,0",
+			"position": "0,1,0,0,0,0,0,947,1038,1920,1080,0",
 			"project": "",
 			"replace":
 			{
-				"height": 46.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
